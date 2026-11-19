@@ -1,0 +1,20 @@
+# Secrets - never commit real settings (the .env.example files are kept)
+.env
+.env.*
+!.env.example
+
+# Installed packages and build output
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Downloaded / cached model files (re-created automatically)
+ml_service/models/embedding_cache/
+
+# Stray local files
+*.bak
+/.txt
+backend/,

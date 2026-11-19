@@ -1,0 +1,89 @@
+{
+  "model_type": "RandomForestRegressor",
+  "trained_at": "2026-11-19T17:30:28+00:00",
+  "evaluation": "chronological split: train 70% / validation 10% / test last 20% of dates",
+  "data_range": [
+    "2024-11-01",
+    "2026-10-31"
+  ],
+  "dataset_rows": 35040,
+  "synthetic_rows": 35040,
+  "live_rows": 0,
+  "test_rows": 7008,
+  "mae": 5.187,
+  "rmse": 7.29,
+  "r2": 0.891,
+  "baseline_mae": 8.016,
+  "baselines": {
+    "day_hour_department_average": {
+      "mae": 8.016,
+      "rmse": 11.895,
+      "r2": 0.709
+    },
+    "same_slot_last_week": {
+      "mae": 7.374,
+      "rmse": 10.621,
+      "r2": 0.768
+    }
+  },
+  "validation_mae": {
+    "RandomForestRegressor": 4.647,
+    "HistGradientBoostingRegressor": 4.858
+  },
+  "improvement_over_baseline_pct": 35.3,
+  "feature_importance": [
+    {
+      "feature": "recent_level",
+      "importance": 7.275
+    },
+    {
+      "feature": "is_holiday",
+      "importance": 4.275
+    },
+    {
+      "feature": "same_slot_last_week",
+      "importance": 3.711
+    },
+    {
+      "feature": "is_after_holiday",
+      "importance": 1.358
+    },
+    {
+      "feature": "day_of_week",
+      "importance": 0.769
+    },
+    {
+      "feature": "doy_cos",
+      "importance": 0.104
+    },
+    {
+      "feature": "is_monsoon",
+      "importance": 0.023
+    },
+    {
+      "feature": "department_encoded",
+      "importance": 0.009
+    },
+    {
+      "feature": "doy_sin",
+      "importance": 0.009
+    },
+    {
+      "feature": "hour",
+      "importance": 0.005
+    },
+    {
+      "feature": "month",
+      "importance": 0.001
+    },
+    {
+      "feature": "days_to_next_holiday",
+      "importance": -0.0
+    },
+    {
+      "feature": "is_winter",
+      "importance": 0.0
+    }
+  ],
+  "data_notice": "Bundled training data is synthetic and must not be treated as real hospital evidence."
+}

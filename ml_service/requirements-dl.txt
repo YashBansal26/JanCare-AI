@@ -1,0 +1,4 @@
+# OPTIONAL deep-learning add-on (pretrained multilingual Transformer).
+# ~1 GB with PyTorch; the model itself (~470 MB) downloads on first use.
+# JanCare works without it.
+sentence-transformers>=3.0

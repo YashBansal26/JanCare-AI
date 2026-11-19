@@ -1,0 +1,27 @@
+{
+  "triage": {
+    "components": [
+      "tfidf_lr",
+      "mlp"
+    ],
+    "cv_accuracy": 0.59,
+    "all_cv_scores": {
+      "tfidf_lr": 0.586,
+      "mlp": 0.563,
+      "tfidf_lr+mlp": 0.59
+    },
+    "deep_learning": "unavailable: run pip install -r requirements-dl.txt"
+  },
+  "assistant": {
+    "components": [
+      "tfidf_lr"
+    ],
+    "cv_accuracy": 0.676,
+    "all_cv_scores": {
+      "tfidf_lr": 0.676,
+      "mlp": 0.641,
+      "tfidf_lr+mlp": 0.647
+    },
+    "deep_learning": "unavailable: run pip install -r requirements-dl.txt"
+  }
+}

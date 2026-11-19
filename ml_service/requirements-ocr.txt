@@ -1,0 +1,4 @@
+# Lab report reading. pypdf reads digital PDFs; RapidOCR reads photos of reports
+# (OCR models are bundled in the package and run offline on CPU).
+pypdf>=4.0
+rapidocr_onnxruntime>=1.3

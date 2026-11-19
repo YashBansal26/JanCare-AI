@@ -1,0 +1,25 @@
+{
+  "model_type": "TF-IDF + Logistic Regression",
+  "deep_learning_status": "unavailable: run pip install -r requirements-dl.txt",
+  "examples": 167,
+  "intents": [
+    "best_time",
+    "book",
+    "cancel",
+    "documents",
+    "greeting",
+    "my_appointment",
+    "queue",
+    "symptoms",
+    "thanks",
+    "timings",
+    "wait_time"
+  ],
+  "cross_validation_accuracy": 0.676,
+  "model_comparison_cv": {
+    "tfidf_lr": 0.676,
+    "mlp": 0.641,
+    "tfidf_lr+mlp": 0.647
+  },
+  "note": "Model combination chosen by 5-fold cross-validation. Restart the AI service to use it."
+}

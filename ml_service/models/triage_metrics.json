@@ -1,0 +1,150 @@
+{
+  "model_type": "Ensemble of TF-IDF + Logistic Regression + Neural network (MLP, trained from scratch)",
+  "selection": {
+    "method": "5-fold cross-validation on training data",
+    "cv_scores": {
+      "tfidf_lr": 0.586,
+      "mlp": 0.563,
+      "tfidf_lr+mlp": 0.59
+    },
+    "chosen": [
+      "tfidf_lr",
+      "mlp"
+    ]
+  },
+  "deep_learning_status": "unavailable: run pip install -r requirements-dl.txt",
+  "train_examples": 222,
+  "test_set": "blind (data/triage_blind_test.csv)",
+  "test_examples": 36,
+  "accuracy": 0.778,
+  "top3_accuracy": 0.944,
+  "macro_f1": 0.775,
+  "accuracy_by_language": {
+    "english_or_hinglish": 0.733,
+    "hindi": 1.0
+  },
+  "dev_set_accuracy": 0.981,
+  "model_comparison": {
+    "tfidf_lr": {
+      "label": "TF-IDF + Logistic Regression",
+      "test_accuracy": 0.722
+    },
+    "mlp": {
+      "label": "Neural network (MLP, trained from scratch)",
+      "test_accuracy": 0.778
+    },
+    "chosen": {
+      "label": "Ensemble of TF-IDF + Logistic Regression + Neural network (MLP, trained from scratch)",
+      "test_accuracy": 0.778
+    }
+  },
+  "previous_model_accuracy_note": "original JanCare model (char 2-4, original 89 phrases) on the same blind test",
+  "previous_model_accuracy": 0.694,
+  "labels": [
+    "Cardiology",
+    "Dermatology",
+    "General Medicine",
+    "Neurology",
+    "Orthopedics",
+    "Pediatrics"
+  ],
+  "confusion_matrix": [
+    [
+      3,
+      0,
+      2,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      4,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      5,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      5
+    ]
+  ],
+  "errors": [
+    {
+      "text": "sharp pain behind the breastbone when I exert myself",
+      "expected": "Cardiology",
+      "predicted": "Orthopedics"
+    },
+    {
+      "text": "pulse feels fluttery and uneven",
+      "expected": "Cardiology",
+      "predicted": "General Medicine"
+    },
+    {
+      "text": "hypertension not controlled with tablets",
+      "expected": "Cardiology",
+      "predicted": "General Medicine"
+    },
+    {
+      "text": "sudden blackouts",
+      "expected": "Neurology",
+      "predicted": "Orthopedics"
+    },
+    {
+      "text": "small itchy blisters between fingers",
+      "expected": "Dermatology",
+      "predicted": "Neurology"
+    },
+    {
+      "text": "haath par lal chakatte",
+      "expected": "Dermatology",
+      "predicted": "Neurology"
+    },
+    {
+      "text": "bitiya ko bukhar aur khansi",
+      "expected": "Pediatrics",
+      "predicted": "General Medicine"
+    },
+    {
+      "text": "need my diabetes medicines reviewed",
+      "expected": "General Medicine",
+      "predicted": "Cardiology"
+    }
+  ],
+  "safety_layer": {
+    "cases": 22,
+    "emergency_recall": 1.0,
+    "emergency_precision": 1.0,
+    "missed_emergencies": []
+  },
+  "notice": "Small hand-written test set; a demo measurement, not clinical validation. The blind set was also used to compare model families, so treat small differences with caution."
+}

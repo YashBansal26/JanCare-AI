@@ -1,0 +1,168 @@
+text,intent
+hi,greeting
+hello,greeting
+namaste,greeting
+hey there,greeting
+good morning,greeting
+नमस्ते,greeting
+hello jancare,greeting
+when is my appointment,my_appointment
+what time is my appointment,my_appointment
+show my booking,my_appointment
+do i have any appointment,my_appointment
+my ticket details,my_appointment
+meri appointment kab hai,my_appointment
+mera appointment kitne baje hai,my_appointment
+meri booking dikhao,my_appointment
+मेरी अपॉइंटमेंट कब है,my_appointment
+मेरा टिकट,my_appointment
+which date is my visit,my_appointment
+how many people are ahead of me,queue
+what is my queue number,queue
+where am i in the line,queue
+queue position,queue
+mere aage kitne log hain,queue
+line me mera number,queue
+मेरे आगे कितने लोग हैं,queue
+कतार में मेरा नंबर,queue
+is my turn coming,queue
+meri baari kab aayegi,queue
+मेरी बारी कब आएगी,queue
+how long do i have to wait,wait_time
+how much waiting time,wait_time
+when will doctor see me,wait_time
+expected wait,wait_time
+kitna intezaar karna padega,wait_time
+kitni der lagegi,wait_time
+कितना इंतजार करना होगा,wait_time
+कितनी देर लगेगी,wait_time
+how many minutes left,wait_time
+how do i cancel,cancel
+cancel my appointment,cancel
+i want to cancel booking,cancel
+i cannot come tomorrow,cancel
+appointment cancel karna hai,cancel
+booking radd karni hai,cancel
+mai nahi aa paunga,cancel
+अपॉइंटमेंट रद्द करना है,cancel
+मैं नहीं आ पाऊंगा,cancel
+how do i book an appointment,book
+i want to see a doctor,book
+book a slot for me,book
+new appointment,book
+doctor se milna hai,book
+appointment book karni hai,book
+slot kaise book kare,book
+अपॉइंटमेंट बुक करनी है,book
+डॉक्टर से मिलना है,book
+which is the least crowded time,best_time
+when is the hospital less crowded,best_time
+best time to visit,best_time
+kab kam bheed hoti hai,best_time
+kis samay jaana sahi hai,best_time
+कब कम भीड़ होती है,best_time
+सबसे अच्छा समय,best_time
+what are the opd timings,timings
+when does the hospital open,timings
+opd hours,timings
+is the hospital open on sunday,timings
+hospital kab khulta hai,timings
+opd ka samay,timings
+ओपीडी का समय,timings
+अस्पताल कब खुलता है,timings
+what documents should i bring,documents
+what to carry for appointment,documents
+do i need aadhaar,documents
+kya kya le kar aana hai,documents
+kaunse kagaz chahiye,documents
+कौन से कागज लाने हैं,documents
+क्या लेकर आना है,documents
+i have fever and cough,symptoms
+my knee is hurting,symptoms
+which department for skin rash,symptoms
+which doctor should i see for headache,symptoms
+baby has diarrhea,symptoms
+mujhe bukhar hai,symptoms
+pet me dard hai kaunse doctor,symptoms
+seene me dard hai,symptoms
+मुझे बुखार है,symptoms
+कमर में दर्द है किस डॉक्टर को दिखाऊं,symptoms
+skin par khujli,symptoms
+chest pain,symptoms
+i feel dizzy,symptoms
+thank you,thanks
+thanks a lot,thanks
+ok thanks,thanks
+dhanyavaad,thanks
+shukriya,thanks
+धन्यवाद,thanks
+great help,thanks
+hii,greeting
+hello sir,greeting
+hey,greeting
+ram ram,greeting
+hello kaise ho,greeting
+appointment details,my_appointment
+my appointment time,my_appointment
+booking status,my_appointment
+appointment status kya hai,my_appointment
+meri appointment ka time,my_appointment
+kis din hai appointment,my_appointment
+मेरी बुकिंग,my_appointment
+queue status,queue
+my number in queue,queue
+how many patients before me,queue
+kitne log line me hai,queue
+number kab aayega,queue
+mera number kab aayega,queue
+कतार की स्थिति,queue
+waiting time,wait_time
+how long is the wait,wait_time
+wait kitna hai,wait_time
+kitne minute,wait_time
+how much time will it take,wait_time
+time kitna lagega,wait_time
+इंतजार का समय,wait_time
+cancel booking,cancel
+cancel kar do,cancel
+please cancel it,cancel
+booking hatani hai,cancel
+appointment nahi chahiye,cancel
+रद्द कर दो,cancel
+book appointment,book
+booking karni hai,book
+i need an appointment,book
+new booking,book
+kal ke liye appointment,book
+बुकिंग करनी है,book
+less crowd time,best_time
+which slot is free,best_time
+bheed kab kam hai,best_time
+khali slot konsa hai,best_time
+best slot,best_time
+भीड़ कम कब है,best_time
+opening time,timings
+closing time,timings
+opd kitne baje khulti hai,timings
+sunday ko khula hai,timings
+hospital timing,timings
+अस्पताल का समय,timings
+documents required,documents
+what should i bring,documents
+id proof chahiye kya,documents
+report le kar aau kya,documents
+kya laana hai,documents
+दस्तावेज,documents
+meri tabiyat kharab hai,symptoms
+i am not feeling well,symptoms
+sir dard ho raha hai,symptoms
+body pain and weakness,symptoms
+mujhe khansi hai,symptoms
+ulti ho rahi hai,symptoms
+तबीयत खराब है,symptoms
+सिर में दर्द है,symptoms
+ok thank you,thanks
+thanks bhai,thanks
+bahut accha,thanks
+thank u,thanks
+शुक्रिया,thanks

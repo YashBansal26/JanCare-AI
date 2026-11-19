@@ -1,0 +1,13 @@
+{
+  "model_type": "GradientBoostingRegressor (mean) + quantile model (80th percentile)",
+  "trained_at": "2026-11-19T17:30:47+00:00",
+  "synthetic_rows": 30000,
+  "live_rows": 0,
+  "consult_mae_min": 3.89,
+  "consult_mae_fixed_8min": 4.61,
+  "queue_wait_mae_min": 11.0,
+  "queue_wait_mae_fixed_8min": 17.9,
+  "improvement_over_fixed_pct": 38.8,
+  "evaluation": "random queues of 1-15 held-out patients",
+  "data_notice": "Synthetic consultation durations unless live_rows > 0."
+}

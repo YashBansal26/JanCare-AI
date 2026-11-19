@@ -1,0 +1,1729 @@
+date,hour,department,patient_count
+2026-09-26,15,Pediatrics,39
+2026-09-26,9,General Medicine,67
+2026-09-26,14,Cardiology,14
+2026-09-26,10,Neurology,22
+2026-09-26,9,Dermatology,8
+2026-09-26,9,Pediatrics,59
+2026-09-26,11,Dermatology,18
+2026-09-26,11,Cardiology,33
+2026-09-26,15,General Medicine,32
+2026-09-26,15,Neurology,20
+2026-09-26,11,Orthopedics,22
+2026-09-26,8,Dermatology,13
+2026-09-26,10,General Medicine,71
+2026-09-26,9,Cardiology,24
+2026-09-26,16,Cardiology,15
+2026-09-26,14,Orthopedics,16
+2026-09-26,8,Cardiology,25
+2026-09-26,12,General Medicine,40
+2026-09-26,9,Neurology,19
+2026-09-26,14,Dermatology,12
+2026-09-26,12,Orthopedics,20
+2026-09-26,16,Neurology,11
+2026-09-26,8,Neurology,13
+2026-09-26,14,General Medicine,30
+2026-09-26,10,Dermatology,30
+2026-09-26,14,Neurology,13
+2026-09-26,11,Pediatrics,56
+2026-09-26,8,Orthopedics,11
+2026-09-26,16,Dermatology,11
+2026-09-26,10,Cardiology,34
+2026-09-26,14,Pediatrics,37
+2026-09-26,16,Orthopedics,11
+2026-09-26,8,General Medicine,32
+2026-09-26,10,Pediatrics,77
+2026-09-26,10,Orthopedics,29
+2026-09-26,12,Cardiology,9
+2026-09-26,12,Pediatrics,51
+2026-09-26,9,Orthopedics,29
+2026-09-26,11,General Medicine,56
+2026-09-26,8,Pediatrics,43
+2026-09-26,15,Dermatology,11
+2026-09-26,16,Pediatrics,32
+2026-09-26,16,General Medicine,44
+2026-09-26,11,Neurology,16
+2026-09-26,12,Neurology,17
+2026-09-26,15,Orthopedics,13
+2026-09-26,12,Dermatology,15
+2026-09-26,15,Cardiology,14
+2026-09-27,10,Cardiology,13
+2026-09-27,15,Dermatology,3
+2026-09-27,10,General Medicine,28
+2026-09-27,16,Dermatology,1
+2026-09-27,12,Cardiology,4
+2026-09-27,12,Neurology,8
+2026-09-27,8,Neurology,2
+2026-09-27,9,Pediatrics,18
+2026-09-27,11,Neurology,8
+2026-09-27,15,Pediatrics,13
+2026-09-27,8,Pediatrics,19
+2026-09-27,9,General Medicine,22
+2026-09-27,10,Pediatrics,28
+2026-09-27,12,General Medicine,15
+2026-09-27,10,Neurology,13
+2026-09-27,8,General Medicine,16
+2026-09-27,14,Pediatrics,20
+2026-09-27,8,Cardiology,5
+2026-09-27,11,Cardiology,9
+2026-09-27,14,Neurology,4
+2026-09-27,15,Neurology,8
+2026-09-27,11,General Medicine,30
+2026-09-27,11,Pediatrics,22
+2026-09-27,14,Dermatology,0
+2026-09-27,9,Neurology,8
+2026-09-27,12,Orthopedics,13
+2026-09-27,15,General Medicine,13
+2026-09-27,16,Neurology,1
+2026-09-27,16,General Medicine,11
+2026-09-27,15,Orthopedics,5
+2026-09-27,14,Cardiology,6
+2026-09-27,11,Orthopedics,6
+2026-09-27,8,Dermatology,5
+2026-09-27,11,Dermatology,6
+2026-09-27,9,Cardiology,6
+2026-09-27,9,Dermatology,11
+2026-09-27,12,Pediatrics,21
+2026-09-27,14,General Medicine,19
+2026-09-27,16,Orthopedics,3
+2026-09-27,10,Dermatology,11
+2026-09-27,8,Orthopedics,10
+2026-09-27,16,Pediatrics,10
+2026-09-27,9,Orthopedics,16
+2026-09-27,15,Cardiology,9
+2026-09-27,14,Orthopedics,9
+2026-09-27,16,Cardiology,6
+2026-09-27,12,Dermatology,10
+2026-09-27,10,Orthopedics,8
+2026-09-28,11,Neurology,43
+2026-09-28,15,Orthopedics,31
+2026-09-28,8,Orthopedics,29
+2026-09-28,9,General Medicine,130
+2026-09-28,8,Pediatrics,74
+2026-09-28,11,Orthopedics,52
+2026-09-28,14,Neurology,25
+2026-09-28,11,Pediatrics,115
+2026-09-28,16,Orthopedics,22
+2026-09-28,10,Cardiology,61
+2026-09-28,9,Dermatology,44
+2026-09-28,10,Orthopedics,61
+2026-09-28,8,Neurology,16
+2026-09-28,15,Cardiology,34
+2026-09-28,9,Orthopedics,53
+2026-09-28,14,Pediatrics,86
+2026-09-28,12,Neurology,30
+2026-09-28,12,Pediatrics,101
+2026-09-28,16,Dermatology,11
+2026-09-28,11,Dermatology,32
+2026-09-28,12,Cardiology,42
+2026-09-28,14,General Medicine,93
+2026-09-28,8,General Medicine,70
+2026-09-28,15,Dermatology,24
+2026-09-28,11,General Medicine,112
+2026-09-28,16,Pediatrics,58
+2026-09-28,12,Dermatology,34
+2026-09-28,9,Pediatrics,108
+2026-09-28,16,Neurology,21
+2026-09-28,14,Orthopedics,27
+2026-09-28,16,Cardiology,22
+2026-09-28,14,Dermatology,33
+2026-09-28,12,General Medicine,92
+2026-09-28,9,Neurology,42
+2026-09-28,10,General Medicine,164
+2026-09-28,9,Cardiology,49
+2026-09-28,12,Orthopedics,37
+2026-09-28,15,Neurology,27
+2026-09-28,8,Cardiology,27
+2026-09-28,11,Cardiology,56
+2026-09-28,15,General Medicine,72
+2026-09-28,8,Dermatology,23
+2026-09-28,14,Cardiology,38
+2026-09-28,10,Neurology,51
+2026-09-28,10,Dermatology,60
+2026-09-28,10,Pediatrics,143
+2026-09-28,16,General Medicine,59
+2026-09-28,15,Pediatrics,85
+2026-09-29,16,Neurology,18
+2026-09-29,15,Dermatology,14
+2026-09-29,11,General Medicine,81
+2026-09-29,14,Dermatology,15
+2026-09-29,8,General Medicine,35
+2026-09-29,9,General Medicine,74
+2026-09-29,10,Cardiology,41
+2026-09-29,15,Neurology,14
+2026-09-29,10,Pediatrics,106
+2026-09-29,15,Cardiology,22
+2026-09-29,11,Dermatology,36
+2026-09-29,14,General Medicine,57
+2026-09-29,16,Pediatrics,45
+2026-09-29,12,Cardiology,33
+2026-09-29,12,Orthopedics,22
+2026-09-29,9,Orthopedics,28
+2026-09-29,16,General Medicine,36
+2026-09-29,12,General Medicine,50
+2026-09-29,12,Dermatology,15
+2026-09-29,16,Dermatology,18
+2026-09-29,10,General Medicine,93
+2026-09-29,12,Neurology,24
+2026-09-29,8,Dermatology,21
+2026-09-29,16,Cardiology,21
+2026-09-29,14,Pediatrics,54
+2026-09-29,9,Dermatology,29
+2026-09-29,14,Neurology,18
+2026-09-29,11,Orthopedics,41
+2026-09-29,14,Cardiology,20
+2026-09-29,9,Cardiology,24
+2026-09-29,16,Orthopedics,12
+2026-09-29,8,Pediatrics,53
+2026-09-29,10,Dermatology,28
+2026-09-29,15,General Medicine,47
+2026-09-29,10,Neurology,50
+2026-09-29,8,Orthopedics,15
+2026-09-29,11,Neurology,29
+2026-09-29,8,Cardiology,22
+2026-09-29,11,Pediatrics,84
+2026-09-29,15,Orthopedics,17
+2026-09-29,9,Pediatrics,81
+2026-09-29,9,Neurology,29
+2026-09-29,11,Cardiology,32
+2026-09-29,12,Pediatrics,65
+2026-09-29,8,Neurology,15
+2026-09-29,10,Orthopedics,37
+2026-09-29,14,Orthopedics,23
+2026-09-29,15,Pediatrics,52
+2026-09-30,14,Orthopedics,16
+2026-09-30,10,Orthopedics,25
+2026-09-30,8,Cardiology,17
+2026-09-30,9,General Medicine,59
+2026-09-30,9,Neurology,12
+2026-09-30,9,Cardiology,24
+2026-09-30,14,General Medicine,43
+2026-09-30,8,Neurology,17
+2026-09-30,9,Pediatrics,82
+2026-09-30,11,Orthopedics,27
+2026-09-30,15,General Medicine,44
+2026-09-30,11,Cardiology,23
+2026-09-30,11,Neurology,32
+2026-09-30,15,Orthopedics,24
+2026-09-30,15,Cardiology,25
+2026-09-30,14,Pediatrics,56
+2026-09-30,10,Neurology,27
+2026-09-30,11,General Medicine,67
+2026-09-30,8,General Medicine,46
+2026-09-30,10,Pediatrics,75
+2026-09-30,12,Orthopedics,12
+2026-09-30,16,Cardiology,15
+2026-09-30,16,Dermatology,19
+2026-09-30,10,General Medicine,71
+2026-09-30,9,Dermatology,12
+2026-09-30,8,Dermatology,15
+2026-09-30,14,Dermatology,10
+2026-09-30,8,Pediatrics,37
+2026-09-30,12,Neurology,22
+2026-09-30,15,Pediatrics,42
+2026-09-30,12,Pediatrics,50
+2026-09-30,16,Orthopedics,15
+2026-09-30,11,Pediatrics,81
+2026-09-30,12,Cardiology,23
+2026-09-30,16,General Medicine,30
+2026-09-30,16,Pediatrics,38
+2026-09-30,9,Orthopedics,22
+2026-09-30,15,Dermatology,14
+2026-09-30,12,General Medicine,52
+2026-09-30,11,Dermatology,12
+2026-09-30,15,Neurology,12
+2026-09-30,8,Orthopedics,18
+2026-09-30,16,Neurology,9
+2026-09-30,14,Cardiology,16
+2026-09-30,14,Neurology,23
+2026-09-30,10,Dermatology,25
+2026-09-30,10,Cardiology,29
+2026-09-30,12,Dermatology,14
+2026-10-01,8,General Medicine,35
+2026-10-01,10,Neurology,22
+2026-10-01,11,General Medicine,57
+2026-10-01,16,Pediatrics,28
+2026-10-01,16,General Medicine,18
+2026-10-01,15,Dermatology,11
+2026-10-01,10,Dermatology,30
+2026-10-01,12,Dermatology,19
+2026-10-01,11,Dermatology,26
+2026-10-01,8,Dermatology,9
+2026-10-01,11,Neurology,26
+2026-10-01,12,Pediatrics,49
+2026-10-01,9,General Medicine,56
+2026-10-01,8,Pediatrics,36
+2026-10-01,8,Orthopedics,10
+2026-10-01,11,Orthopedics,20
+2026-10-01,15,General Medicine,36
+2026-10-01,15,Cardiology,17
+2026-10-01,14,Neurology,18
+2026-10-01,16,Orthopedics,9
+2026-10-01,8,Cardiology,17
+2026-10-01,9,Dermatology,27
+2026-10-01,10,Cardiology,25
+2026-10-01,14,General Medicine,27
+2026-10-01,9,Pediatrics,57
+2026-10-01,12,General Medicine,44
+2026-10-01,14,Pediatrics,44
+2026-10-01,10,General Medicine,49
+2026-10-01,10,Orthopedics,25
+2026-10-01,15,Orthopedics,8
+2026-10-01,15,Pediatrics,39
+2026-10-01,8,Neurology,13
+2026-10-01,12,Neurology,17
+2026-10-01,16,Cardiology,14
+2026-10-01,14,Orthopedics,22
+2026-10-01,16,Dermatology,10
+2026-10-01,14,Cardiology,24
+2026-10-01,9,Orthopedics,25
+2026-10-01,9,Cardiology,26
+2026-10-01,12,Orthopedics,14
+2026-10-01,15,Neurology,12
+2026-10-01,16,Neurology,15
+2026-10-01,12,Cardiology,26
+2026-10-01,10,Pediatrics,55
+2026-10-01,11,Pediatrics,50
+2026-10-01,11,Cardiology,32
+2026-10-01,9,Neurology,20
+2026-10-01,14,Dermatology,18
+2026-10-02,9,Neurology,8
+2026-10-02,12,General Medicine,6
+2026-10-02,16,Orthopedics,1
+2026-10-02,14,Dermatology,3
+2026-10-02,15,General Medicine,6
+2026-10-02,14,Orthopedics,6
+2026-10-02,11,Cardiology,4
+2026-10-02,9,General Medicine,27
+2026-10-02,8,Dermatology,3
+2026-10-02,10,Cardiology,7
+2026-10-02,12,Dermatology,4
+2026-10-02,10,Neurology,11
+2026-10-02,16,Cardiology,5
+2026-10-02,12,Pediatrics,13
+2026-10-02,12,Orthopedics,3
+2026-10-02,15,Neurology,3
+2026-10-02,16,Neurology,4
+2026-10-02,15,Cardiology,5
+2026-10-02,12,Cardiology,7
+2026-10-02,16,General Medicine,6
+2026-10-02,10,General Medicine,14
+2026-10-02,15,Pediatrics,12
+2026-10-02,14,Neurology,3
+2026-10-02,11,General Medicine,24
+2026-10-02,8,Neurology,4
+2026-10-02,9,Dermatology,5
+2026-10-02,14,Pediatrics,15
+2026-10-02,14,Cardiology,11
+2026-10-02,12,Neurology,2
+2026-10-02,16,Dermatology,1
+2026-10-02,11,Dermatology,6
+2026-10-02,9,Orthopedics,5
+2026-10-02,16,Pediatrics,3
+2026-10-02,10,Orthopedics,7
+2026-10-02,11,Neurology,2
+2026-10-02,8,General Medicine,8
+2026-10-02,15,Dermatology,4
+2026-10-02,9,Cardiology,9
+2026-10-02,8,Pediatrics,12
+2026-10-02,15,Orthopedics,2
+2026-10-02,8,Orthopedics,4
+2026-10-02,11,Orthopedics,9
+2026-10-02,9,Pediatrics,10
+2026-10-02,10,Pediatrics,11
+2026-10-02,11,Pediatrics,18
+2026-10-02,8,Cardiology,4
+2026-10-02,10,Dermatology,8
+2026-10-02,14,General Medicine,10
+2026-10-03,16,Dermatology,14
+2026-10-03,12,Orthopedics,16
+2026-10-03,16,Cardiology,13
+2026-10-03,8,Neurology,16
+2026-10-03,15,Neurology,24
+2026-10-03,9,Pediatrics,59
+2026-10-03,14,Pediatrics,43
+2026-10-03,10,General Medicine,66
+2026-10-03,12,Neurology,26
+2026-10-03,14,Cardiology,21
+2026-10-03,9,Orthopedics,22
+2026-10-03,12,General Medicine,43
+2026-10-03,14,Dermatology,22
+2026-10-03,11,Pediatrics,62
+2026-10-03,14,Orthopedics,27
+2026-10-03,9,Neurology,23
+2026-10-03,16,Pediatrics,33
+2026-10-03,10,Dermatology,26
+2026-10-03,9,Cardiology,38
+2026-10-03,15,Pediatrics,39
+2026-10-03,15,Orthopedics,21
+2026-10-03,10,Orthopedics,45
+2026-10-03,8,Orthopedics,20
+2026-10-03,8,Pediatrics,28
+2026-10-03,9,General Medicine,57
+2026-10-03,8,Dermatology,17
+2026-10-03,11,Neurology,28
+2026-10-03,10,Cardiology,32
+2026-10-03,11,Dermatology,18
+2026-10-03,15,General Medicine,39
+2026-10-03,10,Pediatrics,67
+2026-10-03,11,General Medicine,71
+2026-10-03,12,Dermatology,16
+2026-10-03,10,Neurology,34
+2026-10-03,16,Orthopedics,22
+2026-10-03,8,Cardiology,18
+2026-10-03,15,Dermatology,10
+2026-10-03,9,Dermatology,27
+2026-10-03,15,Cardiology,17
+2026-10-03,14,General Medicine,46
+2026-10-03,12,Cardiology,26
+2026-10-03,12,Pediatrics,51
+2026-10-03,16,General Medicine,28
+2026-10-03,16,Neurology,12
+2026-10-03,14,Neurology,22
+2026-10-03,11,Cardiology,38
+2026-10-03,8,General Medicine,38
+2026-10-03,11,Orthopedics,35
+2026-10-04,15,General Medicine,6
+2026-10-04,14,General Medicine,14
+2026-10-04,11,General Medicine,17
+2026-10-04,12,General Medicine,21
+2026-10-04,16,General Medicine,8
+2026-10-04,8,Neurology,0
+2026-10-04,10,Cardiology,10
+2026-10-04,12,Pediatrics,14
+2026-10-04,14,Orthopedics,9
+2026-10-04,10,Pediatrics,25
+2026-10-04,10,Orthopedics,10
+2026-10-04,8,Cardiology,3
+2026-10-04,10,Dermatology,16
+2026-10-04,14,Dermatology,4
+2026-10-04,8,General Medicine,11
+2026-10-04,11,Cardiology,10
+2026-10-04,14,Cardiology,10
+2026-10-04,12,Cardiology,10
+2026-10-04,9,Orthopedics,5
+2026-10-04,9,Cardiology,12
+2026-10-04,11,Dermatology,9
+2026-10-04,12,Neurology,5
+2026-10-04,11,Pediatrics,13
+2026-10-04,8,Orthopedics,2
+2026-10-04,16,Orthopedics,4
+2026-10-04,16,Dermatology,5
+2026-10-04,12,Dermatology,8
+2026-10-04,14,Pediatrics,19
+2026-10-04,16,Pediatrics,9
+2026-10-04,11,Neurology,10
+2026-10-04,9,Neurology,5
+2026-10-04,16,Cardiology,3
+2026-10-04,14,Neurology,8
+2026-10-04,15,Neurology,4
+2026-10-04,10,General Medicine,22
+2026-10-04,12,Orthopedics,7
+2026-10-04,8,Pediatrics,12
+2026-10-04,10,Neurology,8
+2026-10-04,9,General Medicine,20
+2026-10-04,8,Dermatology,1
+2026-10-04,15,Cardiology,6
+2026-10-04,15,Dermatology,6
+2026-10-04,15,Pediatrics,10
+2026-10-04,11,Orthopedics,10
+2026-10-04,9,Dermatology,9
+2026-10-04,9,Pediatrics,17
+2026-10-04,15,Orthopedics,2
+2026-10-04,16,Neurology,6
+2026-10-05,12,General Medicine,77
+2026-10-05,15,Pediatrics,66
+2026-10-05,14,Dermatology,24
+2026-10-05,10,Pediatrics,102
+2026-10-05,12,Cardiology,35
+2026-10-05,16,General Medicine,45
+2026-10-05,15,Neurology,17
+2026-10-05,9,Neurology,39
+2026-10-05,12,Dermatology,30
+2026-10-05,9,Cardiology,52
+2026-10-05,16,Cardiology,14
+2026-10-05,12,Orthopedics,37
+2026-10-05,15,Cardiology,35
+2026-10-05,8,Dermatology,26
+2026-10-05,11,Orthopedics,49
+2026-10-05,14,General Medicine,74
+2026-10-05,9,Dermatology,40
+2026-10-05,15,Orthopedics,20
+2026-10-05,10,Orthopedics,56
+2026-10-05,10,Dermatology,50
+2026-10-05,14,Cardiology,39
+2026-10-05,11,Dermatology,42
+2026-10-05,8,Orthopedics,32
+2026-10-05,16,Orthopedics,22
+2026-10-05,16,Neurology,17
+2026-10-05,9,Orthopedics,52
+2026-10-05,15,General Medicine,58
+2026-10-05,8,General Medicine,43
+2026-10-05,11,General Medicine,98
+2026-10-05,11,Neurology,52
+2026-10-05,9,General Medicine,103
+2026-10-05,8,Neurology,30
+2026-10-05,16,Dermatology,11
+2026-10-05,14,Pediatrics,50
+2026-10-05,10,Cardiology,48
+2026-10-05,11,Cardiology,58
+2026-10-05,12,Pediatrics,68
+2026-10-05,11,Pediatrics,72
+2026-10-05,12,Neurology,41
+2026-10-05,10,Neurology,57
+2026-10-05,9,Pediatrics,89
+2026-10-05,8,Cardiology,28
+2026-10-05,16,Pediatrics,40
+2026-10-05,10,General Medicine,105
+2026-10-05,14,Neurology,36
+2026-10-05,15,Dermatology,21
+2026-10-05,14,Orthopedics,19
+2026-10-05,8,Pediatrics,55
+2026-10-06,14,Cardiology,23
+2026-10-06,14,Orthopedics,22
+2026-10-06,8,Cardiology,15
+2026-10-06,10,Dermatology,13
+2026-10-06,8,General Medicine,26
+2026-10-06,11,Neurology,24
+2026-10-06,10,Orthopedics,37
+2026-10-06,15,Orthopedics,18
+2026-10-06,9,Neurology,31
+2026-10-06,9,Pediatrics,67
+2026-10-06,15,Cardiology,23
+2026-10-06,9,Cardiology,30
+2026-10-06,10,Cardiology,30
+2026-10-06,16,Pediatrics,26
+2026-10-06,10,General Medicine,70
+2026-10-06,14,General Medicine,42
+2026-10-06,16,Cardiology,12
+2026-10-06,15,General Medicine,26
+2026-10-06,11,Orthopedics,32
+2026-10-06,12,Orthopedics,30
+2026-10-06,8,Dermatology,13
+2026-10-06,10,Neurology,33
+2026-10-06,9,General Medicine,57
+2026-10-06,9,Dermatology,22
+2026-10-06,12,Pediatrics,43
+2026-10-06,11,Pediatrics,72
+2026-10-06,14,Neurology,17
+2026-10-06,12,Cardiology,27
+2026-10-06,15,Neurology,11
+2026-10-06,15,Dermatology,10
+2026-10-06,15,Pediatrics,35
+2026-10-06,8,Pediatrics,44
+2026-10-06,12,Neurology,21
+2026-10-06,12,General Medicine,50
+2026-10-06,16,General Medicine,27
+2026-10-06,9,Orthopedics,41
+2026-10-06,11,Cardiology,41
+2026-10-06,16,Neurology,16
+2026-10-06,12,Dermatology,16
+2026-10-06,14,Pediatrics,37
+2026-10-06,10,Pediatrics,73
+2026-10-06,14,Dermatology,21
+2026-10-06,16,Orthopedics,11
+2026-10-06,8,Neurology,12
+2026-10-06,16,Dermatology,11
+2026-10-06,11,General Medicine,52
+2026-10-06,8,Orthopedics,16
+2026-10-06,11,Dermatology,17
+2026-10-07,15,Pediatrics,22
+2026-10-07,16,Cardiology,18
+2026-10-07,16,Dermatology,10
+2026-10-07,10,Dermatology,21
+2026-10-07,9,Cardiology,21
+2026-10-07,14,Dermatology,9
+2026-10-07,10,General Medicine,44
+2026-10-07,14,Cardiology,13
+2026-10-07,11,General Medicine,53
+2026-10-07,15,Dermatology,12
+2026-10-07,9,General Medicine,57
+2026-10-07,8,General Medicine,32
+2026-10-07,9,Dermatology,15
+2026-10-07,12,Cardiology,22
+2026-10-07,10,Cardiology,31
+2026-10-07,12,General Medicine,35
+2026-10-07,8,Dermatology,14
+2026-10-07,11,Dermatology,30
+2026-10-07,11,Cardiology,22
+2026-10-07,14,General Medicine,33
+2026-10-07,12,Dermatology,17
+2026-10-07,15,Cardiology,18
+2026-10-07,8,Cardiology,19
+2026-10-07,16,General Medicine,26
+2026-10-07,9,Orthopedics,32
+2026-10-07,14,Orthopedics,19
+2026-10-07,12,Neurology,27
+2026-10-07,15,Orthopedics,14
+2026-10-07,11,Pediatrics,71
+2026-10-07,16,Orthopedics,16
+2026-10-07,11,Neurology,15
+2026-10-07,14,Neurology,15
+2026-10-07,8,Pediatrics,22
+2026-10-07,10,Neurology,31
+2026-10-07,9,Pediatrics,46
+2026-10-07,9,Neurology,27
+2026-10-07,12,Pediatrics,46
+2026-10-07,8,Neurology,19
+2026-10-07,10,Pediatrics,72
+2026-10-07,16,Pediatrics,26
+2026-10-07,15,Neurology,12
+2026-10-07,14,Pediatrics,40
+2026-10-07,11,Orthopedics,30
+2026-10-07,15,General Medicine,32
+2026-10-07,12,Orthopedics,20
+2026-10-07,16,Neurology,12
+2026-10-07,10,Orthopedics,27
+2026-10-07,8,Orthopedics,12
+2026-10-08,8,Pediatrics,34
+2026-10-08,9,General Medicine,53
+2026-10-08,10,Orthopedics,29
+2026-10-08,10,Neurology,27
+2026-10-08,11,Cardiology,33
+2026-10-08,10,Dermatology,21
+2026-10-08,9,Pediatrics,53
+2026-10-08,15,Pediatrics,28
+2026-10-08,12,Dermatology,15
+2026-10-08,9,Neurology,22
+2026-10-08,10,Cardiology,30
+2026-10-08,11,General Medicine,62
+2026-10-08,12,Pediatrics,50
+2026-10-08,8,Orthopedics,18
+2026-10-08,8,Neurology,18
+2026-10-08,11,Dermatology,26
+2026-10-08,9,Cardiology,34
+2026-10-08,10,General Medicine,63
+2026-10-08,12,Cardiology,16
+2026-10-08,11,Neurology,23
+2026-10-08,12,Orthopedics,19
+2026-10-08,15,Neurology,16
+2026-10-08,14,Neurology,23
+2026-10-08,8,Dermatology,16
+2026-10-08,16,Cardiology,11
+2026-10-08,14,Dermatology,16
+2026-10-08,14,Orthopedics,20
+2026-10-08,15,Dermatology,11
+2026-10-08,12,Neurology,19
+2026-10-08,11,Orthopedics,26
+2026-10-08,15,Cardiology,15
+2026-10-08,15,Orthopedics,19
+2026-10-08,10,Pediatrics,55
+2026-10-08,14,Pediatrics,37
+2026-10-08,16,Dermatology,9
+2026-10-08,9,Dermatology,18
+2026-10-08,9,Orthopedics,26
+2026-10-08,14,Cardiology,18
+2026-10-08,16,Orthopedics,13
+2026-10-08,8,General Medicine,33
+2026-10-08,16,Neurology,12
+2026-10-08,12,General Medicine,42
+2026-10-08,16,Pediatrics,28
+2026-10-08,15,General Medicine,28
+2026-10-08,14,General Medicine,32
+2026-10-08,11,Pediatrics,53
+2026-10-08,16,General Medicine,33
+2026-10-08,8,Cardiology,20
+2026-10-09,16,Cardiology,12
+2026-10-09,9,General Medicine,55
+2026-10-09,16,Dermatology,8
+2026-10-09,14,General Medicine,41
+2026-10-09,12,Pediatrics,43
+2026-10-09,14,Neurology,21
+2026-10-09,11,Pediatrics,62
+2026-10-09,10,General Medicine,71
+2026-10-09,8,Orthopedics,13
+2026-10-09,8,Dermatology,12
+2026-10-09,9,Neurology,26
+2026-10-09,9,Pediatrics,44
+2026-10-09,14,Cardiology,35
+2026-10-09,16,Pediatrics,27
+2026-10-09,12,Dermatology,20
+2026-10-09,15,Neurology,15
+2026-10-09,8,Cardiology,21
+2026-10-09,12,Orthopedics,24
+2026-10-09,11,General Medicine,54
+2026-10-09,11,Cardiology,33
+2026-10-09,8,Neurology,14
+2026-10-09,15,Orthopedics,16
+2026-10-09,10,Orthopedics,33
+2026-10-09,10,Neurology,37
+2026-10-09,10,Pediatrics,51
+2026-10-09,15,General Medicine,37
+2026-10-09,9,Dermatology,16
+2026-10-09,14,Pediatrics,39
+2026-10-09,15,Cardiology,17
+2026-10-09,12,General Medicine,59
+2026-10-09,9,Orthopedics,28
+2026-10-09,16,General Medicine,28
+2026-10-09,11,Orthopedics,22
+2026-10-09,12,Neurology,27
+2026-10-09,8,General Medicine,27
+2026-10-09,16,Neurology,10
+2026-10-09,11,Dermatology,16
+2026-10-09,10,Dermatology,31
+2026-10-09,15,Pediatrics,31
+2026-10-09,16,Orthopedics,13
+2026-10-09,15,Dermatology,15
+2026-10-09,14,Dermatology,17
+2026-10-09,9,Cardiology,27
+2026-10-09,12,Cardiology,21
+2026-10-09,8,Pediatrics,27
+2026-10-09,10,Cardiology,32
+2026-10-09,14,Orthopedics,19
+2026-10-09,11,Neurology,29
+2026-10-10,11,Orthopedics,18
+2026-10-10,10,General Medicine,57
+2026-10-10,14,Dermatology,14
+2026-10-10,16,Orthopedics,13
+2026-10-10,9,Pediatrics,28
+2026-10-10,9,Neurology,19
+2026-10-10,15,Pediatrics,26
+2026-10-10,11,Cardiology,27
+2026-10-10,14,Pediatrics,27
+2026-10-10,15,Cardiology,18
+2026-10-10,8,General Medicine,26
+2026-10-10,12,Neurology,15
+2026-10-10,11,Neurology,29
+2026-10-10,15,Dermatology,9
+2026-10-10,12,Cardiology,23
+2026-10-10,15,General Medicine,20
+2026-10-10,8,Pediatrics,23
+2026-10-10,14,Orthopedics,12
+2026-10-10,9,General Medicine,33
+2026-10-10,16,Cardiology,9
+2026-10-10,14,General Medicine,27
+2026-10-10,16,Dermatology,6
+2026-10-10,12,Orthopedics,24
+2026-10-10,10,Neurology,22
+2026-10-10,15,Neurology,11
+2026-10-10,15,Orthopedics,8
+2026-10-10,14,Neurology,10
+2026-10-10,8,Dermatology,12
+2026-10-10,9,Dermatology,16
+2026-10-10,8,Cardiology,18
+2026-10-10,16,General Medicine,19
+2026-10-10,8,Orthopedics,18
+2026-10-10,12,Pediatrics,24
+2026-10-10,12,General Medicine,34
+2026-10-10,14,Cardiology,23
+2026-10-10,8,Neurology,11
+2026-10-10,9,Orthopedics,19
+2026-10-10,16,Neurology,10
+2026-10-10,16,Pediatrics,15
+2026-10-10,9,Cardiology,26
+2026-10-10,10,Pediatrics,39
+2026-10-10,10,Cardiology,31
+2026-10-10,11,General Medicine,53
+2026-10-10,10,Dermatology,29
+2026-10-10,11,Dermatology,14
+2026-10-10,10,Orthopedics,26
+2026-10-10,11,Pediatrics,45
+2026-10-10,12,Dermatology,17
+2026-10-11,15,Dermatology,7
+2026-10-11,14,General Medicine,17
+2026-10-11,12,Orthopedics,6
+2026-10-11,16,Dermatology,3
+2026-10-11,10,Orthopedics,12
+2026-10-11,14,Neurology,8
+2026-10-11,12,Pediatrics,15
+2026-10-11,11,Dermatology,8
+2026-10-11,8,Pediatrics,15
+2026-10-11,11,Neurology,6
+2026-10-11,16,Cardiology,4
+2026-10-11,10,Pediatrics,23
+2026-10-11,12,Cardiology,5
+2026-10-11,9,General Medicine,20
+2026-10-11,8,Orthopedics,9
+2026-10-11,15,Orthopedics,5
+2026-10-11,10,Neurology,10
+2026-10-11,14,Cardiology,4
+2026-10-11,10,Dermatology,5
+2026-10-11,9,Cardiology,12
+2026-10-11,14,Orthopedics,7
+2026-10-11,16,Pediatrics,11
+2026-10-11,9,Orthopedics,12
+2026-10-11,15,Neurology,3
+2026-10-11,11,General Medicine,22
+2026-10-11,11,Pediatrics,15
+2026-10-11,11,Orthopedics,11
+2026-10-11,14,Pediatrics,15
+2026-10-11,10,Cardiology,7
+2026-10-11,14,Dermatology,2
+2026-10-11,9,Pediatrics,16
+2026-10-11,12,General Medicine,11
+2026-10-11,16,Neurology,3
+2026-10-11,16,Orthopedics,4
+2026-10-11,8,General Medicine,9
+2026-10-11,8,Dermatology,7
+2026-10-11,10,General Medicine,29
+2026-10-11,9,Dermatology,7
+2026-10-11,9,Neurology,9
+2026-10-11,8,Cardiology,4
+2026-10-11,12,Dermatology,6
+2026-10-11,16,General Medicine,11
+2026-10-11,12,Neurology,8
+2026-10-11,15,Pediatrics,14
+2026-10-11,11,Cardiology,7
+2026-10-11,15,Cardiology,10
+2026-10-11,15,General Medicine,10
+2026-10-11,8,Neurology,3
+2026-10-12,15,Cardiology,29
+2026-10-12,9,Orthopedics,43
+2026-10-12,11,Neurology,40
+2026-10-12,14,Pediatrics,47
+2026-10-12,16,General Medicine,45
+2026-10-12,8,Cardiology,27
+2026-10-12,15,Dermatology,11
+2026-10-12,15,General Medicine,56
+2026-10-12,16,Orthopedics,26
+2026-10-12,12,Cardiology,37
+2026-10-12,11,Dermatology,35
+2026-10-12,12,Neurology,39
+2026-10-12,12,General Medicine,68
+2026-10-12,14,Orthopedics,34
+2026-10-12,12,Pediatrics,74
+2026-10-12,14,Cardiology,44
+2026-10-12,11,Orthopedics,50
+2026-10-12,10,Cardiology,50
+2026-10-12,9,Pediatrics,77
+2026-10-12,14,Dermatology,34
+2026-10-12,8,Dermatology,21
+2026-10-12,16,Neurology,33
+2026-10-12,10,General Medicine,119
+2026-10-12,9,Dermatology,34
+2026-10-12,9,Neurology,46
+2026-10-12,12,Dermatology,29
+2026-10-12,15,Pediatrics,62
+2026-10-12,15,Orthopedics,29
+2026-10-12,8,Neurology,20
+2026-10-12,15,Neurology,25
+2026-10-12,9,Cardiology,71
+2026-10-12,11,Cardiology,50
+2026-10-12,14,General Medicine,62
+2026-10-12,10,Dermatology,44
+2026-10-12,10,Neurology,42
+2026-10-12,8,Orthopedics,23
+2026-10-12,9,General Medicine,83
+2026-10-12,16,Cardiology,26
+2026-10-12,10,Pediatrics,97
+2026-10-12,11,General Medicine,117
+2026-10-12,8,Pediatrics,50
+2026-10-12,16,Dermatology,25
+2026-10-12,12,Orthopedics,47
+2026-10-12,16,Pediatrics,39
+2026-10-12,10,Orthopedics,67
+2026-10-12,11,Pediatrics,76
+2026-10-12,14,Neurology,33
+2026-10-12,8,General Medicine,58
+2026-10-13,16,Dermatology,11
+2026-10-13,12,General Medicine,44
+2026-10-13,15,Cardiology,32
+2026-10-13,9,Orthopedics,37
+2026-10-13,11,Dermatology,20
+2026-10-13,10,Dermatology,25
+2026-10-13,8,Orthopedics,18
+2026-10-13,11,Pediatrics,67
+2026-10-13,10,Orthopedics,36
+2026-10-13,12,Dermatology,17
+2026-10-13,9,Dermatology,16
+2026-10-13,16,Neurology,14
+2026-10-13,11,Orthopedics,39
+2026-10-13,14,Dermatology,13
+2026-10-13,8,Dermatology,18
+2026-10-13,15,Pediatrics,34
+2026-10-13,14,General Medicine,40
+2026-10-13,15,Neurology,13
+2026-10-13,12,Orthopedics,23
+2026-10-13,16,Cardiology,17
+2026-10-13,14,Neurology,22
+2026-10-13,14,Orthopedics,17
+2026-10-13,15,Dermatology,8
+2026-10-13,12,Neurology,20
+2026-10-13,15,General Medicine,35
+2026-10-13,15,Orthopedics,17
+2026-10-13,14,Pediatrics,29
+2026-10-13,9,Neurology,38
+2026-10-13,9,Pediatrics,54
+2026-10-13,11,Cardiology,31
+2026-10-13,16,Orthopedics,18
+2026-10-13,8,General Medicine,34
+2026-10-13,11,Neurology,37
+2026-10-13,10,Cardiology,39
+2026-10-13,8,Pediatrics,19
+2026-10-13,8,Neurology,26
+2026-10-13,11,General Medicine,71
+2026-10-13,14,Cardiology,21
+2026-10-13,9,General Medicine,65
+2026-10-13,10,Pediatrics,64
+2026-10-13,9,Cardiology,32
+2026-10-13,16,General Medicine,29
+2026-10-13,8,Cardiology,29
+2026-10-13,12,Cardiology,30
+2026-10-13,10,Neurology,27
+2026-10-13,10,General Medicine,97
+2026-10-13,12,Pediatrics,57
+2026-10-13,16,Pediatrics,19
+2026-10-14,8,Pediatrics,24
+2026-10-14,14,Neurology,20
+2026-10-14,16,Cardiology,12
+2026-10-14,12,Orthopedics,21
+2026-10-14,12,Neurology,10
+2026-10-14,15,Pediatrics,22
+2026-10-14,12,Cardiology,32
+2026-10-14,8,Cardiology,12
+2026-10-14,11,Cardiology,34
+2026-10-14,9,General Medicine,54
+2026-10-14,15,Neurology,22
+2026-10-14,9,Neurology,25
+2026-10-14,10,Neurology,26
+2026-10-14,9,Pediatrics,40
+2026-10-14,10,General Medicine,61
+2026-10-14,16,General Medicine,28
+2026-10-14,9,Orthopedics,24
+2026-10-14,11,Dermatology,23
+2026-10-14,10,Dermatology,28
+2026-10-14,9,Cardiology,27
+2026-10-14,8,Orthopedics,10
+2026-10-14,12,Pediatrics,26
+2026-10-14,11,Pediatrics,47
+2026-10-14,10,Orthopedics,30
+2026-10-14,14,General Medicine,45
+2026-10-14,11,General Medicine,62
+2026-10-14,12,Dermatology,19
+2026-10-14,9,Dermatology,25
+2026-10-14,16,Neurology,11
+2026-10-14,10,Pediatrics,51
+2026-10-14,10,Cardiology,30
+2026-10-14,11,Orthopedics,33
+2026-10-14,15,Dermatology,14
+2026-10-14,14,Dermatology,9
+2026-10-14,8,Dermatology,15
+2026-10-14,8,Neurology,16
+2026-10-14,14,Orthopedics,11
+2026-10-14,14,Cardiology,18
+2026-10-14,15,General Medicine,37
+2026-10-14,11,Neurology,21
+2026-10-14,16,Orthopedics,15
+2026-10-14,15,Cardiology,18
+2026-10-14,16,Dermatology,11
+2026-10-14,12,General Medicine,55
+2026-10-14,8,General Medicine,39
+2026-10-14,14,Pediatrics,36
+2026-10-14,15,Orthopedics,13
+2026-10-14,16,Pediatrics,24
+2026-10-15,16,Orthopedics,11
+2026-10-15,16,Cardiology,18
+2026-10-15,14,Neurology,18
+2026-10-15,11,Orthopedics,25
+2026-10-15,14,General Medicine,42
+2026-10-15,8,Pediatrics,19
+2026-10-15,8,Orthopedics,17
+2026-10-15,10,Cardiology,29
+2026-10-15,15,Orthopedics,17
+2026-10-15,9,Pediatrics,39
+2026-10-15,14,Dermatology,13
+2026-10-15,12,Orthopedics,17
+2026-10-15,11,Dermatology,20
+2026-10-15,9,Cardiology,32
+2026-10-15,15,Neurology,10
+2026-10-15,11,Cardiology,25
+2026-10-15,8,Dermatology,11
+2026-10-15,15,General Medicine,39
+2026-10-15,10,Dermatology,24
+2026-10-15,10,General Medicine,49
+2026-10-15,8,General Medicine,26
+2026-10-15,9,Neurology,18
+2026-10-15,15,Pediatrics,20
+2026-10-15,14,Pediatrics,31
+2026-10-15,11,Neurology,33
+2026-10-15,10,Pediatrics,58
+2026-10-15,9,General Medicine,57
+2026-10-15,12,General Medicine,46
+2026-10-15,14,Cardiology,20
+2026-10-15,11,General Medicine,55
+2026-10-15,14,Orthopedics,22
+2026-10-15,8,Neurology,10
+2026-10-15,16,Dermatology,8
+2026-10-15,12,Dermatology,23
+2026-10-15,15,Dermatology,17
+2026-10-15,15,Cardiology,16
+2026-10-15,12,Cardiology,25
+2026-10-15,16,Pediatrics,23
+2026-10-15,12,Neurology,15
+2026-10-15,12,Pediatrics,37
+2026-10-15,16,General Medicine,31
+2026-10-15,8,Cardiology,21
+2026-10-15,10,Orthopedics,27
+2026-10-15,11,Pediatrics,58
+2026-10-15,9,Orthopedics,33
+2026-10-15,16,Neurology,10
+2026-10-15,10,Neurology,27
+2026-10-15,9,Dermatology,26
+2026-10-16,14,General Medicine,35
+2026-10-16,8,General Medicine,31
+2026-10-16,10,Cardiology,25
+2026-10-16,11,Neurology,24
+2026-10-16,16,Dermatology,13
+2026-10-16,10,General Medicine,42
+2026-10-16,10,Pediatrics,52
+2026-10-16,16,Neurology,7
+2026-10-16,8,Dermatology,13
+2026-10-16,15,Neurology,14
+2026-10-16,14,Cardiology,16
+2026-10-16,9,Cardiology,30
+2026-10-16,11,Orthopedics,25
+2026-10-16,15,Orthopedics,19
+2026-10-16,14,Dermatology,11
+2026-10-16,9,Pediatrics,35
+2026-10-16,11,Pediatrics,56
+2026-10-16,12,Pediatrics,37
+2026-10-16,8,Neurology,11
+2026-10-16,14,Pediatrics,28
+2026-10-16,9,Dermatology,22
+2026-10-16,8,Orthopedics,18
+2026-10-16,11,General Medicine,52
+2026-10-16,12,Dermatology,20
+2026-10-16,10,Orthopedics,30
+2026-10-16,16,Pediatrics,20
+2026-10-16,9,General Medicine,56
+2026-10-16,16,Cardiology,8
+2026-10-16,14,Neurology,19
+2026-10-16,9,Orthopedics,37
+2026-10-16,10,Neurology,32
+2026-10-16,12,General Medicine,46
+2026-10-16,16,General Medicine,32
+2026-10-16,8,Cardiology,12
+2026-10-16,12,Orthopedics,23
+2026-10-16,16,Orthopedics,15
+2026-10-16,12,Neurology,19
+2026-10-16,12,Cardiology,19
+2026-10-16,11,Dermatology,31
+2026-10-16,15,Cardiology,18
+2026-10-16,8,Pediatrics,31
+2026-10-16,15,General Medicine,30
+2026-10-16,15,Dermatology,9
+2026-10-16,11,Cardiology,27
+2026-10-16,9,Neurology,28
+2026-10-16,14,Orthopedics,18
+2026-10-16,15,Pediatrics,31
+2026-10-16,10,Dermatology,34
+2026-10-17,11,Neurology,15
+2026-10-17,14,Orthopedics,16
+2026-10-17,12,Pediatrics,37
+2026-10-17,15,Cardiology,17
+2026-10-17,16,Neurology,6
+2026-10-17,9,General Medicine,46
+2026-10-17,11,Pediatrics,23
+2026-10-17,16,Orthopedics,14
+2026-10-17,12,Cardiology,19
+2026-10-17,9,Orthopedics,16
+2026-10-17,10,Neurology,18
+2026-10-17,12,Dermatology,10
+2026-10-17,8,Neurology,12
+2026-10-17,8,Cardiology,9
+2026-10-17,12,Neurology,21
+2026-10-17,16,Dermatology,13
+2026-10-17,14,Pediatrics,22
+2026-10-17,15,Dermatology,8
+2026-10-17,11,General Medicine,40
+2026-10-17,10,Orthopedics,23
+2026-10-17,16,Pediatrics,16
+2026-10-17,9,Dermatology,17
+2026-10-17,14,Cardiology,13
+2026-10-17,14,Dermatology,19
+2026-10-17,11,Cardiology,21
+2026-10-17,11,Dermatology,19
+2026-10-17,9,Cardiology,14
+2026-10-17,11,Orthopedics,23
+2026-10-17,10,Cardiology,22
+2026-10-17,10,Dermatology,17
+2026-10-17,12,Orthopedics,21
+2026-10-17,10,General Medicine,47
+2026-10-17,8,Orthopedics,19
+2026-10-17,15,Orthopedics,11
+2026-10-17,9,Neurology,17
+2026-10-17,12,General Medicine,38
+2026-10-17,16,General Medicine,25
+2026-10-17,15,Neurology,13
+2026-10-17,10,Pediatrics,39
+2026-10-17,14,Neurology,16
+2026-10-17,16,Cardiology,13
+2026-10-17,9,Pediatrics,52
+2026-10-17,15,General Medicine,29
+2026-10-17,8,Pediatrics,22
+2026-10-17,8,General Medicine,16
+2026-10-17,15,Pediatrics,28
+2026-10-17,14,General Medicine,23
+2026-10-17,8,Dermatology,8
+2026-10-18,14,Pediatrics,11
+2026-10-18,10,Dermatology,7
+2026-10-18,8,Orthopedics,5
+2026-10-18,11,General Medicine,20
+2026-10-18,16,Pediatrics,10
+2026-10-18,12,General Medicine,16
+2026-10-18,16,General Medicine,7
+2026-10-18,11,Pediatrics,20
+2026-10-18,9,Cardiology,10
+2026-10-18,9,Orthopedics,6
+2026-10-18,11,Dermatology,11
+2026-10-18,15,Orthopedics,7
+2026-10-18,14,Cardiology,8
+2026-10-18,11,Neurology,7
+2026-10-18,15,Pediatrics,12
+2026-10-18,9,Neurology,11
+2026-10-18,16,Neurology,7
+2026-10-18,8,General Medicine,13
+2026-10-18,11,Cardiology,8
+2026-10-18,8,Pediatrics,7
+2026-10-18,12,Orthopedics,9
+2026-10-18,16,Cardiology,3
+2026-10-18,8,Dermatology,2
+2026-10-18,14,Neurology,5
+2026-10-18,9,General Medicine,17
+2026-10-18,8,Cardiology,7
+2026-10-18,12,Cardiology,8
+2026-10-18,10,Neurology,5
+2026-10-18,12,Neurology,6
+2026-10-18,15,Dermatology,3
+2026-10-18,15,Cardiology,5
+2026-10-18,14,Orthopedics,3
+2026-10-18,16,Orthopedics,0
+2026-10-18,11,Orthopedics,11
+2026-10-18,10,Pediatrics,25
+2026-10-18,10,General Medicine,25
+2026-10-18,16,Dermatology,2
+2026-10-18,12,Dermatology,5
+2026-10-18,10,Orthopedics,13
+2026-10-18,9,Dermatology,13
+2026-10-18,8,Neurology,4
+2026-10-18,12,Pediatrics,16
+2026-10-18,15,General Medicine,13
+2026-10-18,14,Dermatology,3
+2026-10-18,10,Cardiology,11
+2026-10-18,14,General Medicine,10
+2026-10-18,9,Pediatrics,21
+2026-10-18,15,Neurology,5
+2026-10-19,11,Orthopedics,51
+2026-10-19,8,Dermatology,19
+2026-10-19,15,Cardiology,25
+2026-10-19,10,Orthopedics,61
+2026-10-19,9,Dermatology,36
+2026-10-19,15,Orthopedics,35
+2026-10-19,12,Cardiology,40
+2026-10-19,16,Orthopedics,14
+2026-10-19,9,Orthopedics,49
+2026-10-19,11,Pediatrics,98
+2026-10-19,16,Pediatrics,48
+2026-10-19,12,Pediatrics,71
+2026-10-19,10,Cardiology,57
+2026-10-19,16,Cardiology,18
+2026-10-19,12,Orthopedics,28
+2026-10-19,10,Pediatrics,104
+2026-10-19,8,Cardiology,21
+2026-10-19,14,Cardiology,30
+2026-10-19,8,Pediatrics,52
+2026-10-19,11,Cardiology,61
+2026-10-19,9,Pediatrics,94
+2026-10-19,9,Cardiology,48
+2026-10-19,10,Dermatology,44
+2026-10-19,14,Orthopedics,27
+2026-10-19,8,Orthopedics,29
+2026-10-19,10,General Medicine,100
+2026-10-19,14,Neurology,31
+2026-10-19,8,Neurology,28
+2026-10-19,9,General Medicine,108
+2026-10-19,9,Neurology,32
+2026-10-19,8,General Medicine,64
+2026-10-19,15,Dermatology,23
+2026-10-19,15,Neurology,31
+2026-10-19,14,Dermatology,33
+2026-10-19,12,Neurology,32
+2026-10-19,10,Neurology,37
+2026-10-19,11,General Medicine,83
+2026-10-19,11,Neurology,42
+2026-10-19,16,Neurology,21
+2026-10-19,16,Dermatology,16
+2026-10-19,14,General Medicine,69
+2026-10-19,11,Dermatology,29
+2026-10-19,12,General Medicine,104
+2026-10-19,16,General Medicine,39
+2026-10-19,12,Dermatology,33
+2026-10-19,15,General Medicine,50
+2026-10-19,15,Pediatrics,49
+2026-10-19,14,Pediatrics,61
+2026-10-20,16,Pediatrics,13
+2026-10-20,9,Dermatology,6
+2026-10-20,12,Dermatology,3
+2026-10-20,8,Neurology,5
+2026-10-20,11,General Medicine,20
+2026-10-20,11,Pediatrics,16
+2026-10-20,11,Neurology,6
+2026-10-20,10,General Medicine,24
+2026-10-20,15,Orthopedics,5
+2026-10-20,10,Orthopedics,4
+2026-10-20,16,Dermatology,4
+2026-10-20,9,General Medicine,19
+2026-10-20,14,General Medicine,13
+2026-10-20,16,Orthopedics,3
+2026-10-20,15,Pediatrics,8
+2026-10-20,8,Dermatology,4
+2026-10-20,15,General Medicine,10
+2026-10-20,10,Cardiology,7
+2026-10-20,12,Orthopedics,7
+2026-10-20,11,Orthopedics,3
+2026-10-20,14,Dermatology,2
+2026-10-20,15,Neurology,1
+2026-10-20,8,General Medicine,11
+2026-10-20,8,Pediatrics,9
+2026-10-20,16,General Medicine,8
+2026-10-20,16,Cardiology,4
+2026-10-20,14,Neurology,3
+2026-10-20,12,Pediatrics,10
+2026-10-20,16,Neurology,1
+2026-10-20,14,Pediatrics,9
+2026-10-20,11,Dermatology,9
+2026-10-20,8,Orthopedics,3
+2026-10-20,15,Dermatology,4
+2026-10-20,12,Cardiology,9
+2026-10-20,9,Orthopedics,7
+2026-10-20,12,Neurology,2
+2026-10-20,15,Cardiology,4
+2026-10-20,10,Dermatology,9
+2026-10-20,10,Pediatrics,21
+2026-10-20,9,Pediatrics,10
+2026-10-20,12,General Medicine,13
+2026-10-20,8,Cardiology,4
+2026-10-20,14,Orthopedics,4
+2026-10-20,9,Neurology,8
+2026-10-20,10,Neurology,4
+2026-10-20,11,Cardiology,7
+2026-10-20,9,Cardiology,4
+2026-10-20,14,Cardiology,4
+2026-10-21,12,Orthopedics,27
+2026-10-21,14,Cardiology,31
+2026-10-21,10,Neurology,43
+2026-10-21,12,General Medicine,62
+2026-10-21,10,Dermatology,30
+2026-10-21,15,Neurology,26
+2026-10-21,15,General Medicine,33
+2026-10-21,14,Dermatology,17
+2026-10-21,16,Pediatrics,37
+2026-10-21,16,Neurology,11
+2026-10-21,8,General Medicine,55
+2026-10-21,10,Pediatrics,70
+2026-10-21,16,Orthopedics,13
+2026-10-21,8,Dermatology,14
+2026-10-21,15,Cardiology,22
+2026-10-21,8,Orthopedics,13
+2026-10-21,14,General Medicine,56
+2026-10-21,10,Cardiology,47
+2026-10-21,15,Pediatrics,48
+2026-10-21,9,General Medicine,80
+2026-10-21,8,Cardiology,21
+2026-10-21,9,Cardiology,31
+2026-10-21,11,Orthopedics,31
+2026-10-21,14,Neurology,30
+2026-10-21,16,General Medicine,35
+2026-10-21,8,Pediatrics,52
+2026-10-21,14,Pediatrics,45
+2026-10-21,9,Orthopedics,33
+2026-10-21,10,General Medicine,90
+2026-10-21,15,Dermatology,24
+2026-10-21,12,Cardiology,29
+2026-10-21,11,Dermatology,29
+2026-10-21,8,Neurology,14
+2026-10-21,9,Pediatrics,64
+2026-10-21,12,Pediatrics,60
+2026-10-21,12,Neurology,25
+2026-10-21,11,Cardiology,43
+2026-10-21,9,Dermatology,33
+2026-10-21,16,Dermatology,13
+2026-10-21,11,Pediatrics,76
+2026-10-21,10,Orthopedics,38
+2026-10-21,14,Orthopedics,28
+2026-10-21,16,Cardiology,23
+2026-10-21,15,Orthopedics,15
+2026-10-21,12,Dermatology,18
+2026-10-21,9,Neurology,37
+2026-10-21,11,Neurology,23
+2026-10-21,11,General Medicine,66
+2026-10-22,9,General Medicine,47
+2026-10-22,11,Neurology,18
+2026-10-22,12,Orthopedics,11
+2026-10-22,12,Neurology,18
+2026-10-22,15,General Medicine,28
+2026-10-22,14,Neurology,17
+2026-10-22,15,Cardiology,22
+2026-10-22,11,Cardiology,36
+2026-10-22,15,Dermatology,11
+2026-10-22,14,Orthopedics,17
+2026-10-22,12,General Medicine,31
+2026-10-22,16,Cardiology,12
+2026-10-22,16,Pediatrics,29
+2026-10-22,9,Neurology,28
+2026-10-22,10,General Medicine,72
+2026-10-22,8,General Medicine,28
+2026-10-22,16,General Medicine,15
+2026-10-22,11,Orthopedics,25
+2026-10-22,11,Dermatology,24
+2026-10-22,16,Orthopedics,11
+2026-10-22,14,Cardiology,18
+2026-10-22,10,Pediatrics,56
+2026-10-22,15,Orthopedics,13
+2026-10-22,9,Pediatrics,65
+2026-10-22,10,Orthopedics,24
+2026-10-22,15,Neurology,13
+2026-10-22,9,Orthopedics,26
+2026-10-22,14,Pediatrics,30
+2026-10-22,12,Pediatrics,29
+2026-10-22,12,Cardiology,23
+2026-10-22,12,Dermatology,16
+2026-10-22,9,Dermatology,19
+2026-10-22,16,Neurology,14
+2026-10-22,11,Pediatrics,61
+2026-10-22,8,Neurology,7
+2026-10-22,14,Dermatology,18
+2026-10-22,11,General Medicine,49
+2026-10-22,14,General Medicine,35
+2026-10-22,15,Pediatrics,29
+2026-10-22,9,Cardiology,24
+2026-10-22,16,Dermatology,10
+2026-10-22,10,Cardiology,26
+2026-10-22,8,Orthopedics,17
+2026-10-22,8,Pediatrics,22
+2026-10-22,10,Neurology,17
+2026-10-22,8,Dermatology,8
+2026-10-22,10,Dermatology,20
+2026-10-22,8,Cardiology,15
+2026-10-23,14,Orthopedics,16
+2026-10-23,12,General Medicine,42
+2026-10-23,11,Pediatrics,45
+2026-10-23,12,Neurology,21
+2026-10-23,8,Pediatrics,32
+2026-10-23,9,Cardiology,29
+2026-10-23,11,Dermatology,31
+2026-10-23,12,Cardiology,38
+2026-10-23,9,General Medicine,64
+2026-10-23,10,Dermatology,21
+2026-10-23,10,Neurology,24
+2026-10-23,9,Orthopedics,25
+2026-10-23,8,Orthopedics,19
+2026-10-23,9,Neurology,20
+2026-10-23,14,Pediatrics,43
+2026-10-23,14,Cardiology,20
+2026-10-23,15,Cardiology,19
+2026-10-23,15,Dermatology,20
+2026-10-23,9,Pediatrics,53
+2026-10-23,16,Pediatrics,21
+2026-10-23,9,Dermatology,21
+2026-10-23,16,Orthopedics,7
+2026-10-23,15,Pediatrics,33
+2026-10-23,8,General Medicine,30
+2026-10-23,10,Cardiology,38
+2026-10-23,16,Dermatology,11
+2026-10-23,14,Dermatology,20
+2026-10-23,8,Dermatology,17
+2026-10-23,12,Pediatrics,48
+2026-10-23,11,Neurology,26
+2026-10-23,14,Neurology,20
+2026-10-23,16,General Medicine,25
+2026-10-23,14,General Medicine,36
+2026-10-23,15,Neurology,14
+2026-10-23,11,General Medicine,55
+2026-10-23,11,Cardiology,38
+2026-10-23,8,Cardiology,25
+2026-10-23,16,Cardiology,19
+2026-10-23,10,Pediatrics,69
+2026-10-23,16,Neurology,13
+2026-10-23,12,Orthopedics,25
+2026-10-23,10,Orthopedics,21
+2026-10-23,8,Neurology,11
+2026-10-23,10,General Medicine,56
+2026-10-23,11,Orthopedics,24
+2026-10-23,15,General Medicine,20
+2026-10-23,15,Orthopedics,16
+2026-10-23,12,Dermatology,17
+2026-10-24,12,General Medicine,22
+2026-10-24,8,Pediatrics,13
+2026-10-24,16,Pediatrics,19
+2026-10-24,16,Dermatology,11
+2026-10-24,11,Neurology,18
+2026-10-24,14,Cardiology,15
+2026-10-24,11,Cardiology,25
+2026-10-24,9,General Medicine,53
+2026-10-24,15,Orthopedics,16
+2026-10-24,14,Pediatrics,35
+2026-10-24,14,Orthopedics,12
+2026-10-24,15,Cardiology,14
+2026-10-24,14,General Medicine,26
+2026-10-24,16,Orthopedics,12
+2026-10-24,8,Neurology,10
+2026-10-24,10,Orthopedics,23
+2026-10-24,12,Dermatology,19
+2026-10-24,9,Dermatology,21
+2026-10-24,16,Neurology,17
+2026-10-24,8,Cardiology,11
+2026-10-24,11,General Medicine,40
+2026-10-24,9,Orthopedics,20
+2026-10-24,11,Pediatrics,43
+2026-10-24,9,Pediatrics,48
+2026-10-24,11,Dermatology,23
+2026-10-24,10,Dermatology,22
+2026-10-24,9,Cardiology,23
+2026-10-24,8,Orthopedics,6
+2026-10-24,12,Cardiology,24
+2026-10-24,15,Neurology,13
+2026-10-24,16,General Medicine,22
+2026-10-24,10,General Medicine,40
+2026-10-24,9,Neurology,20
+2026-10-24,10,Pediatrics,49
+2026-10-24,15,Dermatology,10
+2026-10-24,12,Neurology,20
+2026-10-24,12,Orthopedics,21
+2026-10-24,15,General Medicine,29
+2026-10-24,8,Dermatology,6
+2026-10-24,16,Cardiology,10
+2026-10-24,11,Orthopedics,18
+2026-10-24,14,Neurology,13
+2026-10-24,12,Pediatrics,25
+2026-10-24,8,General Medicine,26
+2026-10-24,10,Cardiology,26
+2026-10-24,15,Pediatrics,22
+2026-10-24,14,Dermatology,15
+2026-10-24,10,Neurology,27
+2026-10-25,14,Pediatrics,21
+2026-10-25,12,Cardiology,7
+2026-10-25,16,Pediatrics,6
+2026-10-25,15,Orthopedics,4
+2026-10-25,8,General Medicine,13
+2026-10-25,16,Orthopedics,2
+2026-10-25,10,Pediatrics,13
+2026-10-25,9,General Medicine,7
+2026-10-25,10,Neurology,13
+2026-10-25,8,Pediatrics,14
+2026-10-25,14,Cardiology,4
+2026-10-25,14,Dermatology,8
+2026-10-25,8,Dermatology,5
+2026-10-25,15,Neurology,4
+2026-10-25,16,General Medicine,5
+2026-10-25,14,General Medicine,7
+2026-10-25,8,Neurology,4
+2026-10-25,10,Orthopedics,12
+2026-10-25,12,Dermatology,6
+2026-10-25,9,Dermatology,7
+2026-10-25,16,Neurology,3
+2026-10-25,11,General Medicine,21
+2026-10-25,9,Orthopedics,5
+2026-10-25,11,Pediatrics,21
+2026-10-25,11,Dermatology,11
+2026-10-25,10,Dermatology,13
+2026-10-25,9,Pediatrics,12
+2026-10-25,9,Cardiology,12
+2026-10-25,8,Orthopedics,8
+2026-10-25,11,Orthopedics,7
+2026-10-25,10,Cardiology,12
+2026-10-25,15,Pediatrics,9
+2026-10-25,14,Orthopedics,9
+2026-10-25,16,Dermatology,4
+2026-10-25,8,Cardiology,6
+2026-10-25,12,Pediatrics,12
+2026-10-25,11,Neurology,3
+2026-10-25,9,Neurology,8
+2026-10-25,15,Dermatology,6
+2026-10-25,12,General Medicine,14
+2026-10-25,15,Cardiology,0
+2026-10-25,12,Orthopedics,6
+2026-10-25,15,General Medicine,10
+2026-10-25,10,General Medicine,13
+2026-10-25,16,Cardiology,4
+2026-10-25,14,Neurology,3
+2026-10-25,12,Neurology,6
+2026-10-25,11,Cardiology,11
+2026-10-26,16,Orthopedics,27
+2026-10-26,11,Cardiology,42
+2026-10-26,12,General Medicine,68
+2026-10-26,9,Cardiology,54
+2026-10-26,9,Pediatrics,92
+2026-10-26,16,Pediatrics,51
+2026-10-26,10,Cardiology,64
+2026-10-26,16,General Medicine,48
+2026-10-26,11,General Medicine,110
+2026-10-26,9,Neurology,45
+2026-10-26,8,Neurology,17
+2026-10-26,8,Pediatrics,38
+2026-10-26,12,Pediatrics,54
+2026-10-26,9,General Medicine,91
+2026-10-26,10,General Medicine,113
+2026-10-26,14,Pediatrics,59
+2026-10-26,14,Dermatology,27
+2026-10-26,10,Orthopedics,48
+2026-10-26,8,Orthopedics,24
+2026-10-26,12,Neurology,28
+2026-10-26,15,Neurology,29
+2026-10-26,8,Dermatology,21
+2026-10-26,16,Dermatology,18
+2026-10-26,8,Cardiology,35
+2026-10-26,15,Pediatrics,58
+2026-10-26,14,Orthopedics,36
+2026-10-26,11,Orthopedics,31
+2026-10-26,11,Neurology,39
+2026-10-26,14,Neurology,23
+2026-10-26,15,Dermatology,23
+2026-10-26,15,Cardiology,30
+2026-10-26,10,Neurology,44
+2026-10-26,16,Cardiology,31
+2026-10-26,15,General Medicine,63
+2026-10-26,14,General Medicine,72
+2026-10-26,14,Cardiology,33
+2026-10-26,12,Orthopedics,42
+2026-10-26,11,Pediatrics,95
+2026-10-26,9,Dermatology,36
+2026-10-26,12,Dermatology,29
+2026-10-26,16,Neurology,20
+2026-10-26,15,Orthopedics,27
+2026-10-26,12,Cardiology,47
+2026-10-26,9,Orthopedics,53
+2026-10-26,11,Dermatology,45
+2026-10-26,10,Dermatology,43
+2026-10-26,8,General Medicine,52
+2026-10-26,10,Pediatrics,105
+2026-10-27,12,Pediatrics,41
+2026-10-27,10,Dermatology,37
+2026-10-27,16,Cardiology,11
+2026-10-27,10,General Medicine,61
+2026-10-27,9,Pediatrics,54
+2026-10-27,14,Dermatology,20
+2026-10-27,16,General Medicine,30
+2026-10-27,12,Neurology,19
+2026-10-27,11,Dermatology,25
+2026-10-27,14,Neurology,27
+2026-10-27,12,Dermatology,20
+2026-10-27,10,Cardiology,25
+2026-10-27,11,Orthopedics,33
+2026-10-27,11,Pediatrics,76
+2026-10-27,15,Pediatrics,33
+2026-10-27,11,General Medicine,74
+2026-10-27,8,Dermatology,15
+2026-10-27,9,Orthopedics,39
+2026-10-27,15,Neurology,9
+2026-10-27,16,Neurology,8
+2026-10-27,10,Orthopedics,29
+2026-10-27,9,Dermatology,22
+2026-10-27,14,General Medicine,40
+2026-10-27,16,Pediatrics,30
+2026-10-27,8,Neurology,10
+2026-10-27,10,Neurology,32
+2026-10-27,8,Cardiology,16
+2026-10-27,16,Orthopedics,16
+2026-10-27,12,General Medicine,49
+2026-10-27,8,General Medicine,27
+2026-10-27,12,Cardiology,20
+2026-10-27,15,Orthopedics,20
+2026-10-27,10,Pediatrics,73
+2026-10-27,9,General Medicine,61
+2026-10-27,14,Pediatrics,36
+2026-10-27,8,Orthopedics,18
+2026-10-27,14,Cardiology,17
+2026-10-27,12,Orthopedics,18
+2026-10-27,11,Cardiology,20
+2026-10-27,16,Dermatology,9
+2026-10-27,14,Orthopedics,18
+2026-10-27,11,Neurology,22
+2026-10-27,9,Cardiology,30
+2026-10-27,15,Cardiology,17
+2026-10-27,15,General Medicine,33
+2026-10-27,9,Neurology,25
+2026-10-27,15,Dermatology,16
+2026-10-27,8,Pediatrics,42
+2026-10-28,15,Dermatology,16
+2026-10-28,14,Pediatrics,38
+2026-10-28,9,Dermatology,28
+2026-10-28,9,Cardiology,32
+2026-10-28,8,Pediatrics,31
+2026-10-28,16,Neurology,16
+2026-10-28,9,Orthopedics,19
+2026-10-28,15,Orthopedics,17
+2026-10-28,12,Cardiology,17
+2026-10-28,14,Dermatology,11
+2026-10-28,15,General Medicine,31
+2026-10-28,8,General Medicine,28
+2026-10-28,11,Dermatology,25
+2026-10-28,8,Orthopedics,12
+2026-10-28,12,Neurology,17
+2026-10-28,16,Orthopedics,13
+2026-10-28,12,General Medicine,40
+2026-10-28,16,Pediatrics,24
+2026-10-28,10,Neurology,26
+2026-10-28,16,General Medicine,18
+2026-10-28,11,General Medicine,38
+2026-10-28,10,Pediatrics,62
+2026-10-28,10,Dermatology,28
+2026-10-28,14,Neurology,16
+2026-10-28,9,Pediatrics,51
+2026-10-28,11,Pediatrics,59
+2026-10-28,10,Cardiology,24
+2026-10-28,11,Neurology,22
+2026-10-28,11,Orthopedics,28
+2026-10-28,9,Neurology,24
+2026-10-28,9,General Medicine,53
+2026-10-28,14,Orthopedics,12
+2026-10-28,15,Pediatrics,29
+2026-10-28,16,Cardiology,15
+2026-10-28,10,General Medicine,55
+2026-10-28,16,Dermatology,11
+2026-10-28,8,Dermatology,19
+2026-10-28,11,Cardiology,19
+2026-10-28,8,Neurology,15
+2026-10-28,12,Pediatrics,47
+2026-10-28,10,Orthopedics,21
+2026-10-28,8,Cardiology,18
+2026-10-28,14,Cardiology,11
+2026-10-28,15,Neurology,11
+2026-10-28,15,Cardiology,13
+2026-10-28,14,General Medicine,29
+2026-10-28,12,Dermatology,19
+2026-10-28,12,Orthopedics,25
+2026-10-29,11,Pediatrics,39
+2026-10-29,9,Pediatrics,54
+2026-10-29,10,Pediatrics,72
+2026-10-29,15,General Medicine,23
+2026-10-29,8,Cardiology,15
+2026-10-29,16,Pediatrics,29
+2026-10-29,12,General Medicine,37
+2026-10-29,14,General Medicine,35
+2026-10-29,16,General Medicine,30
+2026-10-29,8,Orthopedics,11
+2026-10-29,11,Neurology,24
+2026-10-29,15,Cardiology,10
+2026-10-29,12,Dermatology,17
+2026-10-29,16,Orthopedics,16
+2026-10-29,10,Neurology,37
+2026-10-29,15,Dermatology,15
+2026-10-29,12,Neurology,19
+2026-10-29,8,General Medicine,28
+2026-10-29,11,Orthopedics,26
+2026-10-29,12,Cardiology,21
+2026-10-29,10,Orthopedics,38
+2026-10-29,15,Orthopedics,16
+2026-10-29,14,Pediatrics,38
+2026-10-29,8,Dermatology,9
+2026-10-29,14,Cardiology,17
+2026-10-29,15,Pediatrics,34
+2026-10-29,16,Dermatology,19
+2026-10-29,15,Neurology,8
+2026-10-29,9,General Medicine,57
+2026-10-29,11,Cardiology,25
+2026-10-29,14,Neurology,16
+2026-10-29,12,Orthopedics,15
+2026-10-29,9,Cardiology,27
+2026-10-29,10,Dermatology,36
+2026-10-29,11,General Medicine,47
+2026-10-29,8,Neurology,16
+2026-10-29,11,Dermatology,36
+2026-10-29,9,Dermatology,29
+2026-10-29,10,General Medicine,51
+2026-10-29,14,Dermatology,20
+2026-10-29,16,Cardiology,12
+2026-10-29,12,Pediatrics,49
+2026-10-29,16,Neurology,10
+2026-10-29,9,Orthopedics,24
+2026-10-29,8,Pediatrics,31
+2026-10-29,9,Neurology,15
+2026-10-29,10,Cardiology,36
+2026-10-29,14,Orthopedics,18
+2026-10-30,14,Neurology,21
+2026-10-30,10,Pediatrics,76
+2026-10-30,11,Orthopedics,30
+2026-10-30,16,Cardiology,16
+2026-10-30,15,Neurology,13
+2026-10-30,8,Dermatology,16
+2026-10-30,10,Orthopedics,20
+2026-10-30,12,Dermatology,15
+2026-10-30,14,General Medicine,26
+2026-10-30,9,Dermatology,27
+2026-10-30,9,Orthopedics,22
+2026-10-30,16,Neurology,15
+2026-10-30,11,Dermatology,27
+2026-10-30,10,Dermatology,26
+2026-10-30,15,Pediatrics,43
+2026-10-30,14,Dermatology,25
+2026-10-30,16,General Medicine,24
+2026-10-30,12,Orthopedics,18
+2026-10-30,11,General Medicine,48
+2026-10-30,9,Cardiology,18
+2026-10-30,8,Neurology,12
+2026-10-30,10,General Medicine,77
+2026-10-30,10,Cardiology,27
+2026-10-30,9,Pediatrics,68
+2026-10-30,12,Pediatrics,47
+2026-10-30,8,Pediatrics,27
+2026-10-30,9,Neurology,22
+2026-10-30,9,General Medicine,55
+2026-10-30,11,Cardiology,32
+2026-10-30,16,Orthopedics,15
+2026-10-30,10,Neurology,19
+2026-10-30,12,Neurology,15
+2026-10-30,8,General Medicine,29
+2026-10-30,14,Pediatrics,49
+2026-10-30,15,Orthopedics,8
+2026-10-30,8,Orthopedics,14
+2026-10-30,16,Dermatology,12
+2026-10-30,8,Cardiology,24
+2026-10-30,14,Cardiology,29
+2026-10-30,14,Orthopedics,14
+2026-10-30,16,Pediatrics,35
+2026-10-30,11,Neurology,26
+2026-10-30,15,Dermatology,15
+2026-10-30,12,General Medicine,44
+2026-10-30,15,General Medicine,36
+2026-10-30,15,Cardiology,23
+2026-10-30,12,Cardiology,21
+2026-10-30,11,Pediatrics,66
+2026-10-31,16,General Medicine,20
+2026-10-31,14,Pediatrics,38
+2026-10-31,11,General Medicine,44
+2026-10-31,10,General Medicine,56
+2026-10-31,9,General Medicine,36
+2026-10-31,8,General Medicine,21
+2026-10-31,16,Dermatology,12
+2026-10-31,15,Dermatology,20
+2026-10-31,14,Dermatology,18
+2026-10-31,12,Dermatology,21
+2026-10-31,11,Dermatology,24
+2026-10-31,12,General Medicine,35
+2026-10-31,10,Dermatology,22
+2026-10-31,8,Dermatology,11
+2026-10-31,16,Cardiology,7
+2026-10-31,15,Cardiology,20
+2026-10-31,14,Cardiology,8
+2026-10-31,12,Cardiology,20
+2026-10-31,11,Cardiology,22
+2026-10-31,10,Cardiology,24
+2026-10-31,9,Cardiology,17
+2026-10-31,8,Cardiology,17
+2026-10-31,9,Dermatology,20
+2026-10-31,15,Pediatrics,43
+2026-10-31,14,General Medicine,31
+2026-10-31,8,Neurology,7
+2026-10-31,12,Pediatrics,38
+2026-10-31,11,Pediatrics,57
+2026-10-31,10,Pediatrics,65
+2026-10-31,9,Pediatrics,53
+2026-10-31,8,Pediatrics,28
+2026-10-31,16,Orthopedics,10
+2026-10-31,15,Orthopedics,17
+2026-10-31,14,Orthopedics,7
+2026-10-31,12,Orthopedics,19
+2026-10-31,15,General Medicine,16
+2026-10-31,11,Orthopedics,16
+2026-10-31,9,Orthopedics,13
+2026-10-31,8,Orthopedics,9
+2026-10-31,16,Neurology,6
+2026-10-31,15,Neurology,13
+2026-10-31,14,Neurology,16
+2026-10-31,12,Neurology,22
+2026-10-31,11,Neurology,13
+2026-10-31,10,Neurology,19
+2026-10-31,9,Neurology,18
+2026-10-31,10,Orthopedics,32
+2026-10-31,16,Pediatrics,20

@@ -1,0 +1,23 @@
+text,pain,expected_emergency
+chest pain with sweating and pain in left arm,5,1
+i cannot breathe properly,3,1
+my father is unconscious,0,1
+heavy bleeding from the wound,4,1
+his face is drooping and speech is slurred,0,1
+child swallowed poison,0,1
+she had a seizure and is not waking up,0,1
+saans nahi aa rahi,0,1
+papa behosh ho gaye,0,1
+bahut khoon beh raha hai,0,1
+सांस लेने में तकलीफ,0,1
+मरीज बेहोश है,0,1
+बहुत खून बह रहा है,0,1
+severe pain in stomach,9,1
+knee pain since a month,3,0
+skin rash on arm,1,0
+mild headache,2,0
+fever and cold,2,0
+baby needs vaccination,0,0
+kamar dard,4,0
+बाल झड़ना,0,0
+back pain after lifting,6,0

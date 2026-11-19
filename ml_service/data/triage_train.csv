@@ -1,0 +1,223 @@
+text,department
+chest pain,Cardiology
+my chest is hurting,Cardiology
+heart palpitations,Cardiology
+heart beating very fast,Cardiology
+pain in left arm and chest,Cardiology
+high blood pressure,Cardiology
+bp is very high today,Cardiology
+shortness of breath on climbing stairs,Cardiology
+breathless while walking,Cardiology
+tightness in chest,Cardiology
+swelling in both feet and breathless,Cardiology
+irregular heartbeat,Cardiology
+heaviness in chest after eating,Cardiology
+my heart rate is very slow,Cardiology
+cholesterol is high doctor said check heart,Cardiology
+follow up after heart attack,Cardiology
+seene mein dard,Cardiology
+dil ki dhadkan tez hai,Cardiology
+chhati me dard ho raha hai,Cardiology
+bp high rehta hai,Cardiology
+seedhi chadhne par saans phoolti hai,Cardiology
+chhati me bharipan,Cardiology
+dil ghabrata hai,Cardiology
+सीने में दर्द,Cardiology
+दिल की धड़कन तेज,Cardiology
+बीपी बढ़ गया है,Cardiology
+सीढ़ी चढ़ने पर सांस फूलती है,Cardiology
+छाती में भारीपन,Cardiology
+दिल घबराता है,Cardiology
+पैरों में सूजन और सांस फूलना,Cardiology
+knee pain,Orthopedics
+back pain,Orthopedics
+lower back pain since a week,Orthopedics
+fracture in my arm,Orthopedics
+joint pain and swelling,Orthopedics
+twisted my ankle,Orthopedics
+shoulder pain when lifting,Orthopedics
+neck stiffness and pain,Orthopedics
+hip pain while walking,Orthopedics
+fell from bike and hurt my leg,Orthopedics
+wrist is swollen after a fall,Orthopedics
+heel pain in the morning,Orthopedics
+cannot bend my knee,Orthopedics
+sprain in foot,Orthopedics
+slip disc problem,Orthopedics
+bone injury,Orthopedics
+ghutne me dard,Orthopedics
+kamar dard,Orthopedics
+haddi toot gayi,Orthopedics
+pair me moch aa gayi,Orthopedics
+kandhe me dard,Orthopedics
+gardan me akdan,Orthopedics
+girne se haath me chot,Orthopedics
+jodo me sujan,Orthopedics
+जोड़ों में दर्द,Orthopedics
+घुटने में दर्द,Orthopedics
+कमर दर्द,Orthopedics
+हड्डी टूट गई,Orthopedics
+पैर में मोच,Orthopedics
+कंधे में दर्द,Orthopedics
+गर्दन में अकड़न,Orthopedics
+severe headache,Neurology
+migraine,Neurology
+migraine with vomiting and light sensitivity,Neurology
+dizziness and fainting,Neurology
+numbness in hands,Neurology
+seizures,Neurology
+fits since childhood,Neurology
+memory loss,Neurology
+forgetting things often,Neurology
+tremors in hands,Neurology
+tingling in legs,Neurology
+weakness on one side of body,Neurology
+headache every day for weeks,Neurology
+vertigo room is spinning,Neurology
+cannot sleep and headache,Neurology
+sir dard bahut tej,Neurology
+chakkar aa rahe hain,Neurology
+behoshi aa jati hai,Neurology
+haath kaanpte hain,Neurology
+pair me jhunjhuni,Neurology
+bhoolne ki bimari,Neurology
+mirgi ke daure,Neurology
+आधे सिर में दर्द,Neurology
+सिर दर्द,Neurology
+चक्कर आना,Neurology
+दौरे पड़ना,Neurology
+हाथ सुन्न,Neurology
+हाथ कांपते हैं,Neurology
+याददाश्त कमजोर,Neurology
+पैरों में झनझनाहट,Neurology
+skin rash,Dermatology
+itching all over body,Dermatology
+acne and pimples,Dermatology
+hair fall,Dermatology
+red patches on skin,Dermatology
+fungal infection,Dermatology
+ringworm on thigh,Dermatology
+allergy on skin,Dermatology
+dry flaky skin,Dermatology
+white spots on skin,Dermatology
+dandruff and itchy scalp,Dermatology
+nail infection,Dermatology
+dark spots on face,Dermatology
+boils on body,Dermatology
+eczema flare up,Dermatology
+skin par daane,Dermatology
+khujli ho rahi hai,Dermatology
+baal jhad rahe hain,Dermatology
+chehre par muhase,Dermatology
+daad khaj khujli,Dermatology
+twacha par safed daag,Dermatology
+garmi ke daane,Dermatology
+त्वचा पर खुजली,Dermatology
+दाने निकल आए,Dermatology
+बाल झड़ना,Dermatology
+त्वचा लाल,Dermatology
+चेहरे पर मुंहासे,Dermatology
+दाद खाज,Dermatology
+त्वचा पर सफेद दाग,Dermatology
+my baby has fever,Pediatrics
+child is not eating,Pediatrics
+infant crying a lot,Pediatrics
+kid has cough and cold,Pediatrics
+toddler vomiting,Pediatrics
+vaccination for my child,Pediatrics
+my son has diarrhea,Pediatrics
+newborn jaundice,Pediatrics
+my daughter has rashes and fever,Pediatrics
+baby not gaining weight,Pediatrics
+child has ear pain,Pediatrics
+my 5 year old has stomach ache,Pediatrics
+kid has loose motions,Pediatrics
+infant has a cold and blocked nose,Pediatrics
+bachche ko bukhar,Pediatrics
+baby doodh nahi pi raha,Pediatrics
+bacche ko ulti,Pediatrics
+bachche ko dast,Pediatrics
+bacche ka vazan nahi badh raha,Pediatrics
+mere bete ko khansi,Pediatrics
+beti ko bukhar hai,Pediatrics
+nawjat shishu ko peeliya,Pediatrics
+बच्चे को बुखार,Pediatrics
+बच्चा दूध नहीं पी रहा,Pediatrics
+बच्चे को उल्टी,Pediatrics
+टीकाकरण,Pediatrics
+बच्चे को दस्त,Pediatrics
+मेरी बेटी को खांसी,Pediatrics
+नवजात को पीलिया,Pediatrics
+fever and cold,General Medicine
+cough for many days,General Medicine
+body ache and weakness,General Medicine
+stomach pain,General Medicine
+vomiting and loose motions,General Medicine
+sore throat,General Medicine
+diabetes checkup,General Medicine
+sugar level high,General Medicine
+tiredness and fatigue,General Medicine
+fever with chills,General Medicine
+dengue test,General Medicine
+typhoid symptoms,General Medicine
+acidity and gas,General Medicine
+burning while urinating,General Medicine
+general health checkup,General Medicine
+thyroid problem,General Medicine
+bukhar aur khansi,General Medicine
+pet dard,General Medicine
+kamzori,General Medicine
+thand lag ke bukhar,General Medicine
+gale me kharash,General Medicine
+sugar badh gayi,General Medicine
+acidity ho rahi hai,General Medicine
+peshab me jalan,General Medicine
+बुखार और खांसी,General Medicine
+पेट दर्द,General Medicine
+शरीर में दर्द कमजोरी,General Medicine
+गला खराब,General Medicine
+शुगर बढ़ गई,General Medicine
+पेट में गैस,General Medicine
+ठंड लगकर बुखार,General Medicine
+racing heart and sweating,Cardiology
+pain spreading from chest to jaw,Cardiology
+my blood pressure medicine needs review,Cardiology
+dil me dard,Cardiology
+दिल में दर्द,Cardiology
+stiff shoulder cannot move it,Orthopedics
+arm pain after an injury,Orthopedics
+painful joints in the morning,Orthopedics
+leg bone may be broken,Orthopedics
+sports injury in knee,Orthopedics
+pith me dard,Orthopedics
+पीठ दर्द,Orthopedics
+हाथ में चोट,Orthopedics
+head is pounding,Neurology
+recurring headache,Neurology
+shaking hands,Neurology
+pins and needles in fingers,Neurology
+had fits last week,Neurology
+balance problem while walking,Neurology
+sir bhaari rehta hai,Neurology
+sir me dard rehta hai,Neurology
+haath pair kaanpna,Neurology
+सिर भारी रहता है,Neurology
+बार बार सिर दर्द,Neurology
+my hair is falling out,Dermatology
+hair thinning,Dermatology
+rash that itches a lot,Dermatology
+skin peeling on hands,Dermatology
+baal bahut gir rahe hain,Dermatology
+sir me rusi,Dermatology
+रूसी की समस्या,Dermatology
+बाल गिर रहे हैं,Dermatology
+my child has a fever since yesterday,Pediatrics
+baby has loose stools,Pediatrics
+kid is coughing at night,Pediatrics
+bacche ko sardi jukam,Pediatrics
+बच्चे को खांसी जुकाम,Pediatrics
+bad cold and running nose,General Medicine
+feeling feverish and weak,General Medicine
+indigestion after meals,General Medicine
+khana hazam nahi hota,General Medicine
+जुकाम और गले में दर्द,General Medicine
