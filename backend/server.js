@@ -19,6 +19,9 @@ import Doctor from './models/Doctor.js';
 import { doctorProtect } from './middleware/doctorAuthMiddleware.js';
 import Notification from './models/Notification.js';
 import { randomUUID } from 'node:crypto';
+import path from 'node:path';
+import fs from 'node:fs';
+import { fileURLToPath } from 'node:url';
 
 dotenv.config();
 
@@ -33,7 +36,8 @@ if (!JWT_SECRET || JWT_SECRET.length < 32) {
 
 app.use(cors({
   origin: function(origin, callback) {
-    if (!origin || origin.includes('vercel.app') || origin.startsWith('http://localhost:') || origin.startsWith('http://127.0.0.1:')) {
+    const extraOrigins = [process.env.RENDER_EXTERNAL_URL, ...(process.env.ALLOWED_ORIGINS || '').split(',')].map(o => (o || '').trim().replace(/\/$/, '')).filter(Boolean);
+    if (!origin || extraOrigins.includes(origin) || origin.includes('vercel.app') || origin.startsWith('http://localhost:') || origin.startsWith('http://127.0.0.1:')) {
       callback(null, true);
     } else {
       callback(new Error('Not allowed by CORS'));
@@ -1112,6 +1116,14 @@ registerExtras(app, {
   changeAppointmentStatus, saveLabReport, syncLabOrders, healthFor, getCrowdPredictions, getTriage, mlPost,
   generateToken, doctorAvailability, triageForBooking
 });
+
+// Production: serve the built React app (frontend/dist) from this same server,
+// so the site and /api share one address. Skipped when the build is absent (local dev).
+const frontendDist = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../frontend/dist');
+if (fs.existsSync(frontendDist)) {
+  app.use(express.static(frontendDist));
+  app.get(/^\/(?!api\/).*/, (req, res) => res.sendFile(path.join(frontendDist, 'index.html')));
+}
 
 // Keep listen() for local dev — Vercel ignores it and uses the export below
 app.listen(PORT, () => {
