@@ -1,0 +1,33 @@
+# Render Blueprint: deploys JanCare AI as two services.
+#   jancare     – Node/Express API that also serves the built React frontend
+#   jancare-ml  – Python FastAPI ML service (triage, crowd, wait-time, no-show models)
+# Database: MongoDB Atlas (set MONGO_URI when Render asks for it).
+services:
+  - type: web
+    name: jancare
+    runtime: node
+    plan: free
+    buildCommand: cd frontend && npm ci && npm run build && cd ../backend && npm ci --omit=dev
+    startCommand: cd backend && node server.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      - key: JWT_SECRET
+        generateValue: true
+      - key: MONGO_URI
+        sync: false   # paste your MongoDB Atlas connection string
+      - key: ML_SERVICE_URL
+        sync: false   # paste the jancare-ml URL, e.g. https://jancare-ml.onrender.com
+
+  - type: web
+    name: jancare-ml
+    runtime: python
+    plan: free
+    rootDir: ml_service
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.9"
